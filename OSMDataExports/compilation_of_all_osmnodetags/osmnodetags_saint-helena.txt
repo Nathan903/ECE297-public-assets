@@ -1,0 +1,1187 @@
+====================
+OSMNodedict
+# 10092001909
+	 barrier  |  gate
+# 10089705108
+	 man_made  |  storage_tank
+# 10089705107
+	 man_made  |  storage_tank
+# 10089705106
+	 man_made  |  storage_tank
+# 10089705105
+	 man_made  |  storage_tank
+#  9661543259
+	 timezone  |  Atlantic/St_Helena
+	 old_name:vi  |  Saint Helena và những lãnh thổ phụ thuộc
+	 old_name:eo  |  Sankta Heleno kaj Dependaĵoj
+	 default_language  |  en
+	 ISO3166-1:alpha2  |  SH
+	 name:hu  |  Szent Ilona, Ascension és Tristan da Cunha
+	 name:eo  |  Sankta Heleno, Ascension kaj Tristan da Cunha
+	 name:pt  |  Santa Helena, Ascensão e Tristão da Cunha
+	 name:it  |  Sant'Elena, Ascensione e Tristan da Cunha
+	 name:vi  |  Saint Helena, Ascension và Tristan da Cunha
+	 boundary  |  administrative
+	 name:es  |  Santa Elena, Ascensión y Tristán de Acuña
+	 name:sl  |  Sveta Helena, Ascension in Tristan da Cunha
+	 ISO3166-1:alpha3  |  SHN
+	 name:de  |  St. Helena, Ascension und Tristan da Cunha
+	 name:el  |  Αγία Ελένη, Ασενσιόν και Τριστάν ντα Κούνια
+	 name:fr  |  Sainte-Hélène, Ascension et Tristan da Cunha
+	 name:en  |  Saint Helena, Ascension and Tristan da Cunha
+	 old_name  |  Saint Helena and Dependencies
+	 name:fa  |  سنت هلنا، اسنشن و تریستان دا کونا
+	 name:tr  |  Saint Helena, Ascension ve Tristan da Cunha
+	 name  |  Saint Helena, Ascension and Tristan da Cunha
+	 name:ar  |  سانت هيلينا، أسينسيون وتريستان دا كونها
+	 name:lt  |  Šventoji Elena, Dangun Žengimo ir Tristanas da Kunja
+	 flag  |  http://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Saint_Helena.svg
+	 name:ru  |  Острова Святой Елены, Вознесения и Тристан-да-Кунья
+	 name:sk  |  Svätá Helena, Ascension a Tristan da Cunha
+	 name:mr  |  संत हेलेना, असेंशन व त्रिस्तन द कुन्हा
+	 name:nl  |  Sint-Helena, Ascension en Tristan da Cunha
+	 wikipedia  |  en:Saint Helena, Ascension and Tristan da Cunha
+	 name:pl  |  Wyspa Świętej Heleny, Wyspa Wniebowstąpienia i Tristan da Cunha
+	 ISO3166-1:numeric  |  654
+	 name:sr  |  Света Хелена, Асенсион, и Тристан да Куња
+	 name:cs  |  Svatá Helena, Ascension a Tristan da Cunha
+	 name:uk  |  Острови Святої Єлени, Вознесіння і Тристан-да-Кунья
+	 name:zh  |  圣赫勒拿、阿森松和特里斯坦-达库尼亚
+	 place  |  country
+	 name:hr  |  Sveta Helena
+	 name:mk  |  Света Елена, Успение и Тристан да Куња
+	 wikidata  |  Q192184
+	 ISO3166-1  |  SH
+#  9142696224
+	 ford  |  yes
+#  9142664200
+	 ruins  |  tower
+	 historic  |  ruins
+#  9142664199
+	 historic:civilization  |  modern
+	 ruins  |  military
+	 historic  |  ruins
+#  8922027134
+	 power  |  generator
+	 generator:source  |  wind
+	 generator:output:electricity  |  80 kW
+	 generator:method  |  wind_turbine
+	 designation  |  WES80
+#  8922027133
+	 power  |  generator
+	 generator:source  |  wind
+	 generator:output:electricity  |  80 kW
+	 generator:method  |  wind_turbine
+	 designation  |  WES80
+#  8922027132
+	 power  |  generator
+	 generator:source  |  wind
+	 generator:output:electricity  |  80 kW
+	 generator:method  |  wind_turbine
+	 designation  |  WES80
+#  8922027131
+	 power  |  generator
+	 generator:source  |  wind
+	 generator:output:electricity  |  80 kW
+	 generator:method  |  wind_turbine
+	 designation  |  WES80
+#  8922027130
+	 power  |  generator
+	 generator:source  |  wind
+	 generator:output:electricity  |  80 kW
+	 generator:method  |  wind_turbine
+	 designation  |  WES80
+#  8922027129
+	 power  |  generator
+	 generator:source  |  wind
+	 generator:output:electricity  |  80 kW
+	 generator:method  |  wind_turbine
+	 designation  |  WES80
+#  8749641501
+	 noexit  |  yes
+	 source  |  Maxar Premium Imagery (Beta)
+#  8749641498
+	 noexit  |  yes
+	 source  |  Maxar Premium Imagery (Beta)
+#  8397436250
+	 ele  |  633
+	 natural  |  peak
+	 name  |  The Haystack
+#  8397107643
+	 place  |  hamlet
+	 name  |  Deadwood
+#  8397107640
+	 place  |  hamlet
+	 name  |  Head o' Wain
+#  8397107639
+	 wikipedia  |  en:Sandy Bay, Saint Helena
+	 wikidata  |  Q7417151
+	 place  |  village
+	 name  |  Sandy Bay
+#  8397107638
+	 place  |  village
+	 name  |  Cleughs Plain
+#  8397107636
+	 place  |  village
+	 name  |  Alarm Forest
+#  8397107635
+	 place  |  village
+	 name  |  The Briars
+#  8397106716
+	 place  |  hamlet
+	 name  |  Guinea Grass
+#  8397106715
+	 place  |  hamlet
+	 name  |  New Ground
+#  8397106713
+	 place  |  hamlet
+	 name  |  Bottom Woods
+#  7467276062
+	 wikipedia  |  de:Rupert’s Wharf
+	 place  |  locality
+	 name  |  Rupert's Wharf
+#  7260908864
+	 amenity  |  toilets
+#  7260908863
+	 access  |  yes
+	 amenity  |  toilets
+#  7260908862
+	 amenity  |  toilets
+#  7260908861
+	 amenity  |  toilets
+#  7260908857
+	 opening_hours  |  Mo-Sa 09:00-21:00
+	 addr:housename  |  Unit 14 Business Park
+	 addr:street  |  Ladder Hill Road
+	 operator  |  Sandie Walters
+	 addr:city  |  half tree hollow
+	 shop  |  hairdresser
+	 phone  |  +290 23826
+	 addr:postcode  |  STHL 1ZZ
+	 name  |  Cutting Edge Hair Salon
+#  7260908855
+	 opening_hours  |  Mo-Sa 09:00-16:00
+	 payment:cash  |  yes
+	 addr:housename  |  Cellar, Under the Consulate
+	 addr:street  |  Main Street
+	 operator  |  Natalie Lawrence
+	 addr:city  |  Jamestown
+	 shop  |  hairdresser
+	 phone  |  +290 22191
+	 addr:postcode  |  STHL 1ZZ
+	 name  |  Bliss Hair Salon
+#  8921802878
+	 aeroway  |  aircraft_fire_trainer
+	 name  |  Aircraft Fire Trainer
+#  7256403085
+	 email  |  gandt.williams@helanta.co.sh
+	 tourism  |  guest_house
+	 name:en  |  Harkate Guest House
+	 phone  |  +229024819
+	 name  |  Harkate Guest House
+#  7193625219
+	 amenity  |  post_office
+# 10089709873
+	 tower:type  |  lighting
+	 man_made  |  mast
+#  7193618394
+	 shop  |  supermarket
+	 name  |  Chad's Shop
+#  7193612296
+	 amenity  |  restaurant
+	 name  |  Anne's Place
+#  7193597871
+	 tourism  |  hotel
+	 name  |  Mantis St Helena
+#  7124501934
+	 ford  |  yes
+#  7124501928
+	 ford  |  yes
+#  7124501927
+	 ford  |  yes
+#  7102374098
+	 aeroway  |  tower
+	 source  |  https://www.atns.com/downloads/FHSH%202-14.pdf
+#  6550998200
+	 amenity  |  post_box
+	 name  |  Great Stone Stop
+#  6469877927
+	 amenity  |  post_box
+	 name  |  Blue Point
+#  6457128615
+	 amenity  |  post_box
+	 name  |  Prosperous Bay
+#  6420346371
+	 historic  |  ruins
+#  6390568132
+	 shop  |  doors
+#  6389279202
+	 leisure  |  picnic_table
+#  6389071359
+	 amenity  |  post_box
+	 name  |  Flagstaff
+#  6359681198
+	 amenity  |  post_box
+#  6329261987
+	 leisure  |  picnic_table
+#  6269522962
+	 natural  |  tree
+#  6269523219
+	 natural  |  tree
+#  6269522960
+	 natural  |  tree
+#  6420344279
+	 amenity  |  post_box
+	 name  |  Lot's Wife's Ponds
+#  6269523217
+	 natural  |  tree
+#  6269522956
+	 natural  |  tree
+#  6269522955
+	 natural  |  tree
+#  6269523212
+	 natural  |  tree
+#  6269522952
+	 natural  |  tree
+#  6269523209
+	 natural  |  tree
+#  6269522951
+	 natural  |  tree
+#  6269523208
+	 natural  |  tree
+#  6269523205
+	 natural  |  tree
+#  6269522947
+	 natural  |  tree
+#   319335587
+	 tourism  |  attraction
+	 source  |  yahoo
+	 natural  |  rock
+	 name  |  Lot's Wife
+#  6269523204
+	 natural  |  tree
+# 10089709872
+	 tower:type  |  lighting
+	 man_made  |  mast
+#  6239697979
+	 barrier  |  gate
+	 name  |  Gate
+#   319335594
+	 tourism  |  attraction
+	 natural  |  rock
+	 name  |  Lot
+#  2787080948
+	 natural  |  tree
+#  6269522954
+	 natural  |  tree
+#  6269523211
+	 natural  |  tree
+#  6231676036
+	 barrier  |  gate
+	 description  |  Red Gate
+#  3865374750
+	 highway  |  passing_place
+#  1780975736
+	 power  |  generator
+	 generator:source  |  wind
+	 generator:output:electricity  |  80 kW
+	 generator:method  |  wind_turbine
+	 designation  |  WES80
+#  6225544366
+	 amenity  |  grave_yard
+	 description  |  two sandstone graves
+	 name  |  Butcher's Graves
+#  6269522977
+	 natural  |  tree
+#  6116679000
+	 power  |  pole
+#  6116678996
+	 power  |  pole
+#  6116678995
+	 power  |  pole
+#  6239698813
+	 name  |  Mackintosh Trail
+#  3627359605
+	 seamark:mooring:category  |  buoy
+	 seamark:type  |  mooring
+#  6116678993
+	 power  |  pole
+#  6116678992
+	 power  |  pole
+#  6329258904
+	 leisure  |  picnic_table
+#  6116678994
+	 power  |  pole
+#  6269522961
+	 natural  |  tree
+#  6269523218
+	 natural  |  tree
+#  5413273721
+	 tourism  |  attraction
+	 name:ru  |  Ворота
+	 name:es  |  Arco
+	 name  |  Arch
+#  6269523191
+	 natural  |  tree
+#  6269523264
+	 natural  |  tree
+#  6116677239
+	 power  |  pole
+#  5413273007
+	 tower:type  |  bell_tower
+	 man_made  |  tower
+#  3070595418
+	 noexit  |  yes
+	 source  |  Maxar Premium Imagery (Beta)
+#  6269523248
+	 natural  |  tree
+#  6269523247
+	 natural  |  tree
+#  5413273005
+	 barrier  |  gate
+#  6269523246
+	 natural  |  tree
+#  4254622180
+	 ele  |  818
+	 wikidata  |  Q3376351
+	 natural  |  peak
+	 name  |  Diana's Peak
+#  6269523254
+	 natural  |  tree
+#  6269522963
+	 natural  |  tree
+#  7098894614
+	 localizer  |  yes
+	 beacon:frequency  |  109.3 MHz
+	 beacon:type  |  ILS
+	 beacon:channel  |  30X
+	 airmark  |  beacon
+	 beacon:code  |  HE
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6269523220
+	 natural  |  tree
+#  4254616274
+	 wikipedia  |  en:Barren Ground, Saint Helena
+	 wikidata  |  Q4863364
+	 place  |  village
+	 name:mk  |  Барен Граунд
+	 name  |  Barren Ground
+# 10089709822
+	 navigationaid  |  als
+	 aeroway  |  navigationaid
+#  6269522177
+	 natural  |  tree
+#  5817601614
+	 email  |  Secretary@shgc.org.sh
+	 addr:street  |  Longwood Avenue
+	 addr:city  |  Longwood
+	 website  |  http://www.shgc.org.sh
+	 description  |  The island's only golf course, comprising 9 holes each with two tee-boxes. Built in 1903 by the then Governor of St.Helena, Sir Henry Lionel Galway.
+	 phone  |  +290 24421
+	 addr:postcode  |  STHL 1ZZ
+	 name  |  St.Helena Golf Club
+#  6269523259
+	 natural  |  tree
+#  3970625558
+	 tourism  |  hotel
+	 name  |  Consulate Hotel
+#  3627345004
+	 seamark:light:character  |  Fl
+	 seamark:light:colour  |  green
+	 seamark:light:category  |  lower
+	 seamark:beacon_special_purpose:shape  |  pile
+	 seamark:beacon_special_purpose:colour  |  white
+	 seamark:beacon_special_purpose:category  |  leading
+	 seamark:type  |  beacon_special_purpose
+#  3627365340
+	 seamark:obstruction:water_level  |  covers
+	 seamark:type  |  obstruction
+#  1556437495
+	 natural  |  bay
+	 name  |  Stone Top Bay
+#  6269522973
+	 natural  |  tree
+#  7098894624
+	 weather:anemometer  |  yes
+	 monitoring:weather  |  yes
+	 man_made  |  monitoring_station
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6269523230
+	 natural  |  tree
+#  3627359603
+	 seamark:type  |  anchorage
+#  6239693080
+	 traffic_sign  |  yes
+	 name  |  No cycling sign
+#  1568670948
+	 historic  |  castle
+	 ele  |  584
+	 wikipedia  |  en:High Knoll Fort
+	 tourism  |  artwork
+	 wikidata  |  Q5755803
+	 castle_type  |  fortress
+	 name  |  High Knoll Fort
+#  7012008626
+	 access  |  private
+	 barrier  |  lift_gate
+#  1556437491
+	 natural  |  bay
+	 name  |  Sandy Bay
+#  6269522969
+	 natural  |  tree
+#  7098894620
+	 monitoring:gps  |  yes
+	 man_made  |  monitoring_station
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6701671321
+	 entrance  |  main
+#  6269523226
+	 natural  |  tree
+#  1556437492
+	 natural  |  bay
+	 name  |  Prosperous Bay
+#  6269522970
+	 natural  |  tree
+#  7098894621
+	 monitoring:gps  |  yes
+	 man_made  |  monitoring_station
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6269523227
+	 natural  |  tree
+#  7012008625
+	 access  |  private
+	 barrier  |  lift_gate
+#  5413273016
+	 barrier  |  gate
+#  1556437490
+	 natural  |  bay
+	 name  |  Deep Valley Bay
+#  6269522968
+	 natural  |  tree
+#  7098894619
+	 monitoring:gps  |  yes
+	 man_made  |  monitoring_station
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6269523225
+	 natural  |  tree
+#  6269522953
+	 natural  |  tree
+#  7193611308
+	 tourism  |  information
+	 name  |  Tourist information
+#  6269523257
+	 natural  |  tree
+#  3205352816
+	 waterway  |  waterfall
+#  6269523210
+	 natural  |  tree
+#  6116678997
+	 power  |  pole
+#  2787080972
+	 natural  |  tree
+#   552545128
+	 highway  |  passing_place
+#  6269522978
+	 natural  |  tree
+#  6269523235
+	 natural  |  tree
+# 10092020877
+	 capacity  |  4
+	 access  |  private
+	 amenity  |  parking
+#  6329253890
+	 amenity  |  post_box
+	 name  |  South West Point
+#  3627359604
+	 seamark:mooring:category  |  buoy
+	 seamark:type  |  mooring
+#  6269522972
+	 natural  |  tree
+#  8397106714
+	 place  |  hamlet
+	 name  |  Rupert's Valley
+#  6313951590
+	 name:mk  |  Актеон
+	 natural  |  peak
+	 name  |  Mont Actaeon
+#  6269522966
+	 natural  |  tree
+#  7098894617
+	 beacon:frequency  |  118.2 MHz
+	 beacon:type  |  DVOR;DME
+	 beacon:channel  |  76
+	 airmark  |  beacon
+	 beacon:code  |  SH
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6388811018
+	 leisure  |  track
+	 name  |  Sugar Loaf
+#  6269523223
+	 natural  |  tree
+#  1556437493
+	 name:ar  |  خليج جيمز
+	 natural  |  bay
+	 name  |  James Bay
+#  6269522971
+	 natural  |  tree
+#  7098894622
+	 monitoring:gps  |  yes
+	 man_made  |  monitoring_station
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6269523228
+	 natural  |  tree
+#  1780975740
+	 power  |  generator
+	 generator:source  |  wind
+	 generator:output:electricity  |  80 kW
+	 generator:method  |  wind_turbine
+	 designation  |  WES80
+#  1556437487
+	 natural  |  bay
+	 name  |  Turks Cap Bay
+#  6269522965
+	 natural  |  tree
+#  7098894616
+	 navigationaid  |  papi
+	 aeroway  |  navigationaid
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6269523222
+	 natural  |  tree
+#  6269522950
+	 natural  |  tree
+#  6269523207
+	 natural  |  tree
+#  1780975735
+	 power  |  generator
+	 generator:source  |  wind
+	 generator:output:electricity  |  80 kW
+	 generator:method  |  wind_turbine
+	 designation  |  WES80
+#  3070595567
+	 noexit  |  yes
+	 source  |  Maxar Premium Imagery (Beta)
+#  6269522957
+	 natural  |  tree
+#  6269523214
+	 natural  |  tree
+#  1556437488
+	 natural  |  bay
+	 name  |  Manati Bay
+#  5413273014
+	 barrier  |  gate
+#  6269523255
+	 natural  |  tree
+#  8397107641
+	 place  |  village
+	 name  |  Blue Hill
+#  1780975732
+	 power  |  generator
+	 generator:source  |  wind
+	 generator:output:electricity  |  80 kW
+	 generator:method  |  wind_turbine
+	 designation  |  WES80
+#  1602893650
+	 name:br  |  Santa Helena
+	 name  |  Saint Helena
+	 name:es  |  Santa Elena
+	 name:be  |  Востраў Святой Алены
+	 name:af  |  Sint Helena
+	 wikidata  |  Q34497
+	 name:fr  |  Sainte-Hélène
+	 place  |  state
+	 name:hu  |  Szent Ilona-sziget
+	 name:sk  |  Svätá Helena
+	 name:ru  |  Остров Святой Елены
+	 name:lt  |  Šventoji Elena
+	 name:nl  |  Sint-Helena
+	 website  |  https://www.sainthelena.gov.sh/
+#  8397416824
+	 ele  |  798
+	 natural  |  peak
+	 name  |  High Peak
+#  6327694730
+	 seamark:type  |  mooring
+#  1556437494
+	 natural  |  bay
+	 name  |  Lemon Valley Bay
+#  1780958445
+	 barrier  |  gate
+#  1559939555
+	 natural  |  bay
+	 name  |  Tripe Bay
+#  8397107637
+	 place  |  village
+	 name  |  St Paul's
+#  5726382692
+	 crossing  |  zebra
+	 highway  |  crossing
+#   306578206
+	 highway  |  mini_roundabout
+#   293673697
+	 official_name  |  City of James Town
+	 wikidata  |  Q30970
+	 population  |  629
+	 capital  |  yes
+	 name  |  Jamestown
+	 name:fa  |  جیمزتون
+	 name:en  |  Jamestown
+	 official_name:es  |  Ciudad de Jamestown
+	 wikipedia  |  en:Jamestown, Saint Helena
+	 name:fr  |  Jamestown
+	 place  |  town
+	 name:ar  |  جيمز تون
+	 name:el  |  Τζέιμσταουν
+	 is_in:state  |  Saint Helena
+	 name:ur  |  جیمز ٹاون
+	 name:es  |  Jamestown
+	 name:hu  |  Jamestown
+	 name:mk  |  Џејмстаун
+	 name:ru  |  Джеймстаун
+	 name:lt  |  Džeimstaunas
+#  6329259073
+	 leisure  |  track
+	 name  |  Peak Dale walk
+#  1556437489
+	 name:ar  |  خليج روبرت
+	 natural  |  bay
+	 name  |  Rupert's Bay
+#  6269522967
+	 natural  |  tree
+#  7098894618
+	 beacon:type  |  NDB
+	 airmark  |  beacon
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6269523224
+	 natural  |  tree
+#  6269522946
+	 natural  |  tree
+#  6239696791
+	 name  |  Donkey Shed
+#  6269523203
+	 natural  |  tree
+#  8397107642
+	 wikipedia  |  en:Levelwood, Saint Helena
+	 wikidata  |  Q13408049
+	 place  |  village
+	 name  |  Levelwood
+#  1780975733
+	 power  |  generator
+	 generator:source  |  wind
+	 generator:output:electricity  |  80 kW
+	 generator:method  |  wind_turbine
+	 designation  |  WES80
+#  6389073007
+	 leisure  |  picnic_table
+#  3970625559
+	 amenity  |  events_venue
+	 name  |  Grand Parade
+#  3627345005
+	 seamark:light:character  |  Fl
+	 seamark:light:colour  |  green
+	 seamark:light:category  |  upper
+	 seamark:beacon_special_purpose:shape  |  pile
+	 seamark:beacon_special_purpose:colour  |  white
+	 seamark:beacon_special_purpose:category  |  leading
+	 seamark:type  |  beacon_special_purpose
+#  3627346823
+	 seamark:wreck:water_level  |  covers
+	 seamark:wreck:category  |  dangerous
+	 seamark:type  |  wreck
+#  6269523198
+	 natural  |  tree
+#  1559939550
+	 natural  |  bay
+	 name  |  Banks Valley Bay
+#  4918722408
+	 ford  |  yes
+#   249399423
+	 website  |  https://www.sainthelena.gov.sh/
+	 population:date  |  2016-02-07
+	 population  |  4534
+	 name:zh  |  圣赫勒拿
+	 name:yo  |  Orílẹ́ède Hẹlena
+	 name:uk  |  Острів Святої Єлени
+	 name:te  |  సెంట్ హెలినా
+	 name:sv  |  S:t Helena
+	 name:sr  |  Света Јелена
+	 name:ti  |  ሴንት ሄለና
+	 name:ru  |  О-в Св. Елены
+	 name:rn  |  Sehelene
+	 name:si  |  ශාන්ත හෙලේනා
+	 name:rm  |  Sontg'Elena
+	 name:to  |  Seini Helena
+	 name:sw  |  Santahelena
+	 name:pt  |  Santa Helena
+	 source:population  |  https://www.sainthelena.gov.sh
+	 name:pl  |  Wyspa Świętej Heleny
+	 name:or  |  ସେଣ୍ଟ ହେଲେନା
+	 name:mr  |  सेंट हेलेना
+	 name:eo  |  Sankta Heleno
+	 name:ja  |  セントヘレナ
+	 name:ee  |  Saint Helena nutome
+	 name:hu  |  Szent Ilona
+	 name:am  |  ሴንት ሄለና
+	 name:da  |  Sankt Helena
+	 name:cs  |  Svatá Helena
+	 name:zu  |  i-Saint Helena
+	 name:bm  |  Ɛlɛni Senu
+	 name:ga  |  San Héilin
+	 name:bg  |  Света Елена
+	 name:ne  |  सेन्ट हेलेना
+	 name:el  |  Αγία Ελένη
+	 name:ml  |  സെൻറ് ഹെലീന
+	 name:fr  |  Sainte-Hélène
+	 name:gd  |  Eilean Naomh Eilidh
+	 name:be  |  Святой Алены, Востраў
+	 name:gl  |  Santa Helena
+	 name:kab  |  Sant Ilina
+	 is_in:ocean  |  Atlantic
+	 name:ta  |  செயின்ட் ஹெலெனா
+	 country_code_fips  |  SH
+	 place  |  island
+	 name:dz  |  སེནཊ་ ཧེ་ལི་ན
+	 name:bo  |  སེནྚ། ཧེ་ལི་ན།
+	 name:kn  |  ಸೇಂಟ್ ಹೆಲೆನಾ
+	 name:en  |  Saint Helena
+	 name:ast  |  Santa Lena
+	 name:ko  |  세인트헬레나
+	 name:lg  |  Senti Herena
+	 capital_city  |  Jamestown
+	 name:ar  |  سانت هيلينا
+	 name:lt  |  Šventoji Elena
+	 name:sk  |  Svätá Helena
+	 name:az  |  Seynt Elena
+	 description  |  overseas territory of the United Kingdom; including the territories of Ascension Island and Tristan da Cunha
+	 name:ur  |  سینٹ ہیلینا
+	 name:sl  |  Sveta Helena
+	 name:gu  |  સેંટ હેલેના
+	 name:hr  |  Sveta Helena
+	 name:nl  |  Sint-Helena
+	 name:mg  |  Sainte-Hélène
+	 name:mk  |  Света Елена
+	 wikipedia  |  af:Sint Helena
+	 name:es  |  Santa Elena
+	 name:sg  |  Sênt-Helêna
+	 name:is  |  Sankti Helena
+	 name:de  |  St. Helena
+	 name:bn  |  সেন্ট হেলেনা
+	 name:chr  |  ᎠᏥᎸᏉᏗ ᎮᎵᎾ
+	 name:fur  |  Sante Eline
+	 name:ha  |  San Helena
+	 name:bs  |  Sveta Jelena
+	 name:ff  |  Sent Helen
+	 name:he  |  סנט הלנה
+	 name:hi  |  सेंट हेलेना
+	 name  |  Saint Helena
+	 name:it  |  Sant’Elena
+	 name:ka  |  წმინდა ელენეს კუნძული
+	 wikidata  |  Q34497
+	 name:th  |  เซนต์เฮเลนา
+	 name:ki  |  Santahelena
+	 name:km  |  សង់​ហេឡេណា
+	 name:ks  |  سینٛٹ ہٮ۪لِنا
+	 name:ro  |  Sfânta Elena
+	 name:fa  |  سنت هلن
+	 name:ksh  |  de Ensel Zint Hellena
+	 name:ln  |  Sántu eleni
+	 country_code_iso3166_1_alpha_2  |  SH
+	 name:af  |  Sint Helena
+	 name:lo  |  ເຊັ້ນເຮເລນາ
+	 int_name  |  Saint Helena
+	 name:lv  |  Sv. Helēnas sala
+#  3627359602
+	 seamark:mooring:category  |  buoy
+	 seamark:type  |  mooring
+#  5413273728
+	 waterway  |  waterfall
+	 name:ru  |  Водопад «Сердце»
+	 name:en  |  The Heart Shaped Waterfall
+	 name  |  The Heart Shaped Waterfall
+#  6313563730
+	 ele  |  819
+	 name:mk  |  Каколдс Поинт
+	 natural  |  peak
+	 name  |  Cuckhold's Point
+#  1780976395
+	 power  |  generator
+	 generator:source  |  wind
+	 generator:output:electricity  |  80 kW
+	 generator:method  |  wind_turbine
+	 designation  |  WES80
+#  6269522958
+	 natural  |  tree
+#  6269522948
+	 natural  |  tree
+#  1780958476
+	 barrier  |  gate
+#  2787080924
+	 natural  |  tree
+#  6269523187
+	 natural  |  tree
+#  6116678988
+	 power  |  pole
+#  3627345003
+	 seamark:type  |  crane
+#  6116678999
+	 power  |  pole
+#  4254620837
+	 wikipedia  |  en:Longwood, Saint Helena
+	 wikidata  |  Q222213
+	 place  |  village
+	 name:mk  |  Лонгвуд
+	 name  |  Longwood
+#  3627346821
+	 seamark:mooring:category  |  buoy
+	 seamark:type  |  mooring
+#  6269523196
+	 natural  |  tree
+#  3970630153
+	 wikipedia  |  en:Half Tree Hollow
+	 wikidata  |  Q3643946
+	 place  |  village
+	 name:mk  |  Халф Три Холоу
+	 name  |  Half Tree Hollow
+#  1556437496
+	 natural  |  bay
+	 name  |  Flagstaff Bay
+#  6269522974
+	 natural  |  tree
+#  7098894625
+	 navigationaid  |  papi
+	 aeroway  |  navigationaid
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6239696819
+	 leisure  |  garden
+	 name  |  George Benjamin Bem Arboretum
+#  3070595641
+	 noexit  |  yes
+	 source  |  Maxar Premium Imagery (Beta)
+#  6269523231
+	 natural  |  tree
+#   319371673
+	 tourism  |  attraction
+	 source  |  yahoo
+	 natural  |  rock
+	 name  |  Turks Cap
+#  2787080958
+	 natural  |  tree
+#  6269522964
+	 natural  |  tree
+#  7098894615
+	 navigationaid  |  papi
+	 aeroway  |  navigationaid
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6269523221
+	 natural  |  tree
+#  9133378378
+	 operator  |  National Turst Staint Helena
+	 amenity  |  post_box
+#   418521365
+	 motorcar  |  yes
+	 bicycle  |  yes
+	 foot  |  yes
+	 barrier  |  gate
+#  5413273006
+	 amenity  |  waste_disposal
+#  2787081017
+	 motorcar  |  yes
+	 bicycle  |  yes
+	 foot  |  yes
+	 barrier  |  gate
+#  2787080973
+	 natural  |  tree
+#  6269522979
+	 natural  |  tree
+#  6420345921
+	 amenity  |  post_box
+	 name  |  Thompsons Bay
+#  6269523236
+	 natural  |  tree
+#  6116679002
+	 power  |  pole
+#  2787080977
+	 natural  |  tree
+#  6269522983
+	 natural  |  tree
+#  6269523240
+	 natural  |  tree
+#  6269522959
+	 natural  |  tree
+#  6269523197
+	 natural  |  tree
+#  3627346822
+	 seamark:mooring:category  |  buoy
+	 seamark:type  |  mooring
+#  6269523216
+	 natural  |  tree
+#  6116679003
+	 power  |  pole
+#  2787080978
+	 natural  |  tree
+#  6269522984
+	 natural  |  tree
+#  6269523241
+	 natural  |  tree
+#  3070595341
+	 noexit  |  yes
+	 source  |  Maxar Premium Imagery (Beta)
+#  6116678991
+	 power  |  pole
+#  3070595421
+	 noexit  |  yes
+	 source  |  Maxar Premium Imagery (Beta)
+#  6269523251
+	 natural  |  tree
+#  3627345006
+	 seamark:mooring:shape  |  can
+	 seamark:mooring:category  |  buoy
+	 seamark:type  |  mooring
+#  3070595609
+	 noexit  |  yes
+	 source  |  Maxar Premium Imagery (Beta)
+#  6269523199
+	 natural  |  tree
+#  6269522949
+	 natural  |  tree
+#  6269523206
+	 natural  |  tree
+#  6231676083
+	 barrier  |  gate
+#  6269523188
+	 natural  |  tree
+#  3627345001
+	 amenity  |  drinking_water
+#  6269523194
+	 natural  |  tree
+#  6329261693
+	 shop  |  religion
+	 name  |  St Helena the Great
+#  6116678989
+	 power  |  pole
+#  6329261694
+	 leisure  |  picnic_table
+#  2787080965
+	 natural  |  tree
+#  6116678990
+	 power  |  pole
+#  6269522975
+	 natural  |  tree
+#  7098894626
+	 weather:anemometer  |  yes
+	 monitoring:weather  |  yes
+	 man_made  |  monitoring_station
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6269523232
+	 natural  |  tree
+#  6269522976
+	 natural  |  tree
+#  7098894627
+	 aeroway  |  windsock
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6269523233
+	 natural  |  tree
+#  6269522980
+	 natural  |  tree
+#  6269523237
+	 natural  |  tree
+#  6269522981
+	 natural  |  tree
+#  6269523238
+	 natural  |  tree
+#  6269522982
+	 natural  |  tree
+#  6269523239
+	 natural  |  tree
+#  6269523185
+	 natural  |  tree
+#  6269523186
+	 natural  |  tree
+#  1559939558
+	 natural  |  bay
+	 name  |  Powell Bay
+#  6313563734
+	 memorial  |  plaque
+	 historic  |  memorial
+	 name  |  Halley’s Observatory
+#  6269523189
+	 natural  |  tree
+#  6269523190
+	 natural  |  tree
+#  6269523192
+	 natural  |  tree
+#  6269523193
+	 natural  |  tree
+#  3627346820
+	 seamark:mooring:category  |  buoy
+	 seamark:type  |  mooring
+#  6269523195
+	 natural  |  tree
+#  8397133917
+	 place  |  hamlet
+	 name  |  Rosemary Plain
+#  6269523200
+	 natural  |  tree
+#  8397133918
+	 place  |  hamlet
+	 name  |  Kunji Field
+#  6269523201
+	 natural  |  tree
+#  6269523202
+	 natural  |  tree
+#  6269523242
+	 natural  |  tree
+#  6269523243
+	 natural  |  tree
+#  6269523244
+	 natural  |  tree
+#  7193597771
+	 opening_hours  |  Mo-Sa 09:00-16:00
+	 payment:cash  |  yes
+	 addr:housename  |  Cellar, Under the Consulate
+	 addr:street  |  Main Street
+	 addr:city  |  Jamestown
+	 shop  |  beauty
+	 phone  |  +290 22371
+	 addr:postcode  |  STHL 1ZZ
+	 name  |  Essence Beauty Salon
+#  6269523245
+	 natural  |  tree
+# 10089744941
+	 man_made  |  mast
+#  6269523213
+	 natural  |  tree
+#  6329258269
+	 leisure  |  picnic_table
+#  6269523249
+	 natural  |  tree
+#  6313981936
+	 name:mk  |  Дајанас Пик
+	 natural  |  peak
+	 name  |  Diana's Peak
+#  6269523250
+	 natural  |  tree
+#  6269523252
+	 natural  |  tree
+#  6269523253
+	 natural  |  tree
+#  6269523256
+	 natural  |  tree
+# 10089709821
+	 navigationaid  |  als
+	 aeroway  |  navigationaid
+#  6359687941
+	 leisure  |  track
+	 name  |  Sandy Bay Barn postbox walk
+#  6269523258
+	 natural  |  tree
+# 10089709823
+	 navigationaid  |  als
+	 aeroway  |  navigationaid
+#  6269523260
+	 natural  |  tree
+# 10089709824
+	 navigationaid  |  als
+	 aeroway  |  navigationaid
+#  6269523261
+	 natural  |  tree
+#  7098894623
+	 aeroway  |  windsock
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6269523229
+	 natural  |  tree
+#  6329258285
+	 leisure  |  track
+	 name  |  Manati Bay Walk
+# 10089709825
+	 beacon:type  |  ils
+	 airmark  |  beacon
+#  6269523262
+	 natural  |  tree
+#  6313981949
+	 amenity  |  post_box
+#  6116677240
+	 power  |  pole
+#  3205352824
+	 waterway  |  waterfall
+#  6269523265
+	 natural  |  tree
+#  6116677241
+	 power  |  pole
+#  6269523266
+	 natural  |  tree
+#  6116677242
+	 power  |  pole
+#  6269523267
+	 natural  |  tree
+#  6116677243
+	 power  |  pole
+#  6269523268
+	 natural  |  tree
+#  6116677244
+	 power  |  pole
+#  6269523269
+	 natural  |  tree
+#  6269523270
+	 natural  |  tree
+#  9562717406
+	 amenity  |  school
+	 name  |  Prince Andrew Secondary School
+#  6269523271
+	 natural  |  tree
+#  6269523272
+	 natural  |  tree
+#  6269523273
+	 natural  |  tree
+#  6297403168
+	 tourism  |  hotel
+	 name:mk  |  Бертрандова колиба
+	 name  |  Bertrand's Cottage
+#  6269523274
+	 natural  |  tree
+#  6298432709
+	 amenity  |  grave_yard
+	 name  |  Boer Cemetery
+#  7098894628
+	 communication:radio  |  yes
+	 tower:type  |  communication
+	 man_made  |  mast
+	 source  |  http://www.atns.com/downloads/FHSH%20AD%202-11.pdf
+#  6269523234
+	 natural  |  tree
+#  6299115934
+	 man_made  |  mineshaft
+	 name  |  Carnelian Mine
+#  6299120303
+	 surface  |  ground
+	 sport  |  cycling
+	 leisure  |  track
+	 name  |  Mountain bike track
+#  1559939553
+	 natural  |  bay
+	 name  |  Thompson's Bay
+#  6313563729
+	 ele  |  819
+	 name:mk  |  Актен
+	 natural  |  peak
+	 name  |  Mount Actaen
+#  6269523215
+	 natural  |  tree
+#  6313915511
+	 natural  |  peak
+	 name  |  Cuckold's Point
+# 10089709826
+	 aeroway  |  windsock
+#  8749641465
+	 noexit  |  yes
+	 source  |  Maxar Premium Imagery (Beta)
+#  6269523263
+	 natural  |  tree
+#  6327476806
+	 tourism  |  attraction
+	 name  |  Tortoise viewing corridor
+#  6329243230
+	 leisure  |  track
+	 name  |  South West Point Post Box walk
+====================
+Successfully loaded map '/cad2/ece297s/public/maps/saint-helena.streets.bin'
+Closing map

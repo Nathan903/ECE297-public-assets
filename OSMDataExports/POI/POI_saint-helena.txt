@@ -1,0 +1,485 @@
+====================
+getIntersectionName(i)
+<unknown> & Longwood Avenue
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Deadwood & Longwood Avenue
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Market Street & Napoleon Street & Main Street
+<unknown> & Market Street
+<unknown> & Market Street
+Market Street & Seales Corner
+<unknown> & Market Street & China Lane
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Field Road & Napoleon Street
+<unknown> & Field Road
+Field Road & Airport Access Road
+<unknown> & Constitution Hill
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Castle Terrace & Main Street
+<unknown> & Castle Terrace
+Church Lane & Main Street
+<unknown> & Church Lane
+<unknown> & Church Lane
+Ladder Hill Road
+Commonwealth Avenue
+Lower Half Tree Hollow & Commonwealth Avenue
+<unknown> & Lower Half Tree Hollow
+Lower Half Tree Hollow & Tern Drive
+Commonwealth Avenue
+<unknown> & Sandy Bay Ridge
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Deadwood
+Deadwood
+Deadwood
+Deadwood
+Deadwood
+Deadwood
+Deadwood
+Deadwood
+<unknown> & Deadwood
+Deadwood
+Deadwood & Airport Access Road
+Deadwood
+Deadwood & Airport Access Road
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Longwood Avenue
+Colt Sheds
+Longwood Avenue
+<unknown>
+<unknown>
+Longwood Avenue
+<unknown> & Longwood Avenue
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Longwood Avenue
+<unknown> & Longwood Avenue
+<unknown>
+<unknown>
+<unknown>
+Longwood Avenue
+Colt Sheds & Airport Access Road
+Colt Sheds & Longwood Avenue
+<unknown> & Longwood Avenue
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Longwood Avenue
+<unknown>
+<unknown>
+<unknown> & Casons
+<unknown> & Casons
+<unknown>
+<unknown>
+Casons
+Casons
+<unknown> & Casons
+Casons
+Casons
+<unknown> & Casons
+<unknown> & Casons
+<unknown>
+<unknown>
+<unknown> & Casons & Commonwealth Avenue
+<unknown>
+Commonwealth Avenue
+<unknown>
+<unknown>
+<unknown> & Evergreen Drive
+<unknown> & Commonwealth Avenue
+<unknown>
+<unknown>
+<unknown> & Bottom Woods
+<unknown> & Longwood Avenue
+<unknown> & Airport Access Road
+<unknown> & Evergreen Drive
+<unknown> & Commonwealth Avenue
+<unknown> & Cow Path
+<unknown> & Cow Path
+<unknown> & Cow Path
+<unknown> & Cow Path
+Cow Path
+Cow Path
+Cow Path
+Cow Path & Wireless Station Drive
+Wireless Station Drive & Commonwealth Avenue
+Airport Access Road
+<unknown> & Airport Access Road
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Sapper Way
+Sapper Way
+Sapper Way
+<unknown> & Sapper Way
+Sapper Way
+<unknown> & Sapper Way & Red Gate
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Sandy Bay Road
+<unknown> & Commonwealth Avenue
+<unknown>
+<unknown> & Clay Gut
+<unknown>
+Casons
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Commonwealth Avenue
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Red Gate
+<unknown> & Red Gate & Commonwealth Avenue
+<unknown>
+<unknown>
+<unknown> & Commonwealth Avenue
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Commonwealth Avenue
+<unknown>
+<unknown>
+Sandy Bay Road
+Sandy Bay Road
+Sandy Bay Road
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Longwood Avenue
+<unknown>
+<unknown> & Evergreen Drive & Commonwealth Avenue
+<unknown> & The Briars
+<unknown> & The Briars
+<unknown> & Main Street
+<unknown>
+<unknown> & Main Street
+<unknown> & Bottom Woods
+Bottom Woods
+<unknown>
+<unknown> & Tern Drive
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Longwood Avenue
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Ladder Hill Road
+Tern Drive & The Pavement & Commonwealth Avenue & Ladder Hill Road
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Airport Access Road
+<unknown> & The Pavement
+<unknown> & The Pavement
+<unknown> & Ladder Hill Road
+<unknown>
+<unknown> & Casons
+<unknown>
+<unknown>
+Casons
+<unknown> & Casons
+Casons
+Casons
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Airport Access Road
+<unknown> & Airport Access Road
+<unknown> & Airport Access Road
+<unknown>
+Sandy Bay Ridge
+<unknown>
+Commonwealth Avenue
+<unknown> & Commonwealth Avenue
+<unknown>
+<unknown>
+<unknown>
+Evergreen Drive
+<unknown> & Evergreen Drive
+<unknown> & Evergreen Drive
+<unknown>
+<unknown>
+<unknown> & Commonwealth Avenue
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Commonwealth Avenue
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Constitution Hill
+<unknown>
+<unknown>
+Commonwealth Avenue
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Commonwealth Avenue
+Unity Cottage Road
+Unity Cottage Road
+<unknown> & Unity Cottage Road
+Sandy Bay Ridge
+Sandy Bay Ridge
+Sandy Bay Ridge
+Sandy Bay Ridge
+<unknown> & Sandy Bay Ridge
+<unknown> & China Lane
+China Lane & Ladder Hill Road
+Napoleon Street & Seales Corner
+Seafront
+Seafront & Main Street
+<unknown> & Napoleon Street
+<unknown> & Shy Road
+Constitution Hill
+Seafront
+Shy Road & Ladder Hill Road
+Commonwealth Avenue
+<unknown> & Commonwealth Avenue
+Commonwealth Avenue
+Commonwealth Avenue
+<unknown> & Commonwealth Avenue
+<unknown> & Commonwealth Avenue
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Airport Access Road
+<unknown> & Airport Access Road
+Field Road
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Casons
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Clay Gut
+Clay Gut
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Main Street
+<unknown>
+Longwood Avenue
+Longwood Avenue
+<unknown>
+<unknown>
+<unknown> & Ladder Hill Road
+Main Street
+<unknown>
+Main Street
+<unknown>
+<unknown>
+<unknown>
+Sandy Bay Road
+<unknown>
+<unknown>
+<unknown> & Airport Access Road
+<unknown> & Airport Access Road
+<unknown> & Airport Access Road
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Airport Access Road
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+====================
+Successfully loaded map '/cad2/ece297s/public/maps/saint-helena.streets.bin'
+Closing map

@@ -1,0 +1,41 @@
+====================
+events_venue  |  Grand Parade
+	 amenity  |  events_venue
+	 name  |  Grand Parade
+grave_yard  |  Butcher's Graves
+	 amenity  |  grave_yard
+	 description  |  two sandstone graves
+	 name  |  Butcher's Graves
+grave_yard  |  Boer Cemetery
+	 amenity  |  grave_yard
+	 name  |  Boer Cemetery
+post_box  |  South West Point
+	 amenity  |  post_box
+	 name  |  South West Point
+post_box  |  Flagstaff
+	 amenity  |  post_box
+	 name  |  Flagstaff
+post_box  |  Lot's Wife's Ponds
+	 amenity  |  post_box
+	 name  |  Lot's Wife's Ponds
+post_box  |  Thompsons Bay
+	 amenity  |  post_box
+	 name  |  Thompsons Bay
+post_box  |  Prosperous Bay
+	 amenity  |  post_box
+	 name  |  Prosperous Bay
+post_box  |  Blue Point
+	 amenity  |  post_box
+	 name  |  Blue Point
+post_box  |  Great Stone Stop
+	 amenity  |  post_box
+	 name  |  Great Stone Stop
+restaurant  |  Anne's Place
+	 amenity  |  restaurant
+	 name  |  Anne's Place
+school  |  Prince Andrew Secondary School
+	 amenity  |  school
+	 name  |  Prince Andrew Secondary School
+====================
+Successfully loaded map '/cad2/ece297s/public/maps/saint-helena.streets.bin'
+Closing map

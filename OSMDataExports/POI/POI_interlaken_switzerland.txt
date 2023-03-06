@@ -1,0 +1,2260 @@
+====================
+getIntersectionName(i)
+Wydengässli & Weissenaustrasse
+Wydengässli & Wyden
+Wydengässli & Seestrasse
+Lehnweg & Bockstorweg
+Lehnweg & Steindlerstrasse
+<unknown> & Lehnweg
+Lehnweg & Vorholzstrasse
+<unknown> & Lehnweg
+<unknown> & Lehnweg
+Lehnweg
+Lehnweg & Seestrasse & Eichzun
+Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse & Eigerstrasse
+Eigerstrasse
+Eigerstrasse & Mittlere Strasse
+Mittlere Strasse & Wellenacher
+Mittlere Strasse
+Mittlere Strasse & Chrützacher
+Mittlere Strasse
+Mittlere Strasse
+Mittlere Strasse
+Mittlere Strasse
+Seestrasse & Schulhausstrasse
+Schulhausstrasse & Bohnerenstrasse
+Schulhausstrasse & Bohnerenstrasse
+Schulhausstrasse & Mittlere Strasse
+Mittlere Strasse & Schulhausstrasse
+Schulhausstrasse & Dorfmattenstrasse
+Schulhausstrasse
+Schulhausstrasse & Vorholzstrasse
+Schulhausstrasse
+Schulhausstrasse & Seidenfadenstrasse
+Neugasse & Marktgasse
+Neugasse
+Neugasse & Postgasse
+Neugasse
+Untere Bönigstrasse & Geissgasse
+Untere Bönigstrasse & Im Moos
+Untere Bönigstrasse & Landi-Kreisel
+Sportweg & Lindenallee
+Sportweg
+Sportweg & Alpenstrasse
+Freiestrasse & Lindenallee
+Freiestrasse
+Freiestrasse & Lindenallee
+Freiestrasse & Renggliweg
+Freiestrasse
+Freiestrasse & Renggliweg
+Freiestrasse & Alpenstrasse
+<unknown> & Unterseen
+Unterseen
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Wilderswil & Gsteigstrasse
+Wilderswil
+<unknown> & Wilderswil
+<unknown> & Wilderswil
+Wilderswil & Gsteigstrasse
+<unknown>
+<unknown>
+<unknown> & Därligenstrasse
+<unknown>
+<unknown>
+<unknown>
+Seestrasse
+Seestrasse
+Seestrasse
+<unknown> & Seestrasse
+<unknown>
+<unknown>
+<unknown> & Seestrasse
+Bahnhofstrasse
+Bahnhofstrasse & Kanalpromenade
+Bahnhofstrasse
+Bahnhofstrasse
+<unknown>
+Seestrasse & Weissenaustrasse
+Weissenaustrasse & Helvetiastrasse
+Rothornstrasse & Rugenaustrasse
+Rothornstrasse
+Rothornstrasse
+Rothornstrasse
+Rothornstrasse & Bernastrasse
+Rothornstrasse & Waldeggstrasse
+Rothornstrasse & Suleggstrasse & Waldeggstrasse
+Suleggstrasse & General-Guisan-Strasse
+Bernastrasse & Waldeggstrasse
+<unknown> & Bernastrasse
+Bernastrasse & General-Guisan-Strasse
+Bernastrasse & Niesenstrasse
+Pfarrweg & Waldeggstrasse
+Pfarrweg & Wychelstrasse
+Jungfraublickallee & Wychelstrasse
+Jungfraublickallee
+Jungfraublickallee & Hauptstrasse & Jungfraustrasse
+Bahnhofstrasse
+<unknown> & Bahnhofstrasse
+Bahnhofstrasse
+Bahnhofstrasse & Marktgasse & Höheweg & Centralstrasse
+<unknown>
+<unknown> & Gsteigstrasse
+Gsteigstrasse
+Gsteigstrasse
+Waldeggstrasse & Wychelstrasse
+<unknown> & Waldeggstrasse
+Waldeggstrasse
+Waldeggstrasse
+Waldeggstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Wychelstrasse
+Wychelstrasse
+<unknown> & Wychelstrasse
+Wychelstrasse
+Wychelstrasse
+Wychelstrasse & Hauptstrasse
+Unterdorfstrasse & Hauptstrasse & Parkstrasse
+Unterdorfstrasse
+Unterdorfstrasse & Birkenweg
+Unterdorfstrasse & Klostergässli
+Oelestrasse & Tenne-Kreisel
+Oelestrasse
+Oelestrasse
+Oelestrasse
+Oelestrasse & Alte Oelestrasse
+Oelestrasse
+Unterdorfstrasse & Oelestrasse & Kesslergasse & Rütistrasse
+Aegertenstrasse & Dorfstrasse
+Aegertenstrasse
+Aegertenstrasse & Hertigässli
+Gsteigstrasse & Kreuzackerweg
+Kreuzackerweg & Hertigässli
+Metzgergasse & Kesslergasse & Dorfstrasse
+Metzgergasse & Hobachergässli
+<unknown> & Metzgergasse
+Metzgergasse & Hauptstrasse
+Klosterstrasse
+Klosterstrasse
+General-Guisan-Strasse & Rugenparkstrasse
+General-Guisan-Strasse
+General-Guisan-Strasse
+General-Guisan-Strasse
+General-Guisan-Strasse
+General-Guisan-Strasse
+General-Guisan-Strasse
+General-Guisan-Strasse
+General-Guisan-Strasse
+General-Guisan-Strasse & Rosenstrasse
+General-Guisan-Strasse & Rosenstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Allmendstrasse & Tenne-Kreisel
+Allmendstrasse & Mittengrabenstrasse
+Allmendstrasse
+Allmendstrasse & Kreisel Lindenallee
+Tenne-Kreisel
+Tenne-Kreisel & Obere Bönigstrasse
+Tenne-Kreisel & Alpenstrasse
+Obere Bönigstrasse
+Obere Bönigstrasse
+Obere Bönigstrasse & Alte Oelestrasse
+Obere Bönigstrasse
+Obere Bönigstrasse & Bühlstrasse
+Obere Bönigstrasse & Bühlstrasse
+Obere Bönigstrasse
+Mystery-Kreisel & Mattenstrasse
+Mystery-Kreisel & Geissgasse
+Mystery-Kreisel & Obere Bönigstrasse
+<unknown> & Mystery-Kreisel
+Obere Bönigstrasse & Bönigstrasse
+Bönigstrasse
+Bönigstrasse & Obere Bönigstrasse
+Allmendstrasse & Kreisel Lindenallee
+Allmendstrasse
+Allmendstrasse
+Allmendstrasse
+Allmendstrasse
+Allmendstrasse
+Allmendstrasse & Untere Bönigstrasse
+<unknown> & Brienzstrasse
+Brienzstrasse
+Brienzstrasse & Eyenweg
+Brienzstrasse
+Brienzstrasse
+Brienzstrasse
+<unknown> & Aldi-Kreisel
+<unknown>
+Mattenstrasse
+Mattenstrasse & Lütschinenstrasse
+Mattenstrasse
+<unknown> & Geissgasse
+Geissgasse
+Geissgasse
+Geissgasse
+Klosterstrasse
+Klosterstrasse & Schlossstrasse
+Strandbadstrasse & Höheweg
+Strandbadstrasse
+<unknown> & Marktgasse
+Bahnhofstrasse & Bahnhofplatz
+<unknown> & Bahnhofstrasse
+<unknown>
+<unknown> & Dorfstrasse
+<unknown> & Rugen
+<unknown> & Rugen
+<unknown>
+Dorfstrasse
+<unknown> & Dorfstrasse
+<unknown>
+<unknown>
+<unknown>
+Interlakenstrasse
+Interlakenstrasse & Obere Stockteile
+Interlakenstrasse & Friedheim
+Interlakenstrasse & Rosenweg
+Interlakenstrasse & Gartenstrasse
+Interlakenstrasse & Chrisdöriweg
+Interlakenstrasse & In den Gärten
+Interlakenstrasse & Lindenweg
+Interlakenstrasse & Im Eggen
+<unknown> & Interlakenstrasse
+Wilderswil & Gsteigstrasse
+Gsteigstrasse
+Bühlstrasse & Bühlweg
+Bühlstrasse
+Hertigässli
+Obere Bönigstrasse
+Aegertiweg
+Gsteigstrasse & Aegertiweg
+Höheweg
+Höheweg
+Höheweg
+Freiestrasse & Schwalmerenweg
+Schwalmerenweg
+Schwalmerenweg
+Schwalmerenweg
+Aegertenstrasse
+Aegertenstrasse & Gsteigstrasse
+Scheidgasse & Hohmüedig & Beatenbergstrasse
+Scheidgasse & Beatenbergstrasse
+Lanzenen & Kammistrasse
+<unknown> & Lanzenen
+Lanzenen & Kammistrasse
+Lanzenen & Dammweg
+Lanzenen
+Centralstrasse
+Centralstrasse & Rosenstrasse
+Centralstrasse & Jungfraustrasse
+Jungfraustrasse
+Jungfraustrasse
+Jungfraustrasse & Alpenstrasse
+Mittengrabenstrasse
+<unknown> & Mittengrabenstrasse
+Mittengrabenstrasse & Spühlibachweg
+Mittengrabenstrasse & Spühlibachweg
+Gsteigstrasse
+<unknown> & Gsteigstrasse
+Gsteigstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Aareckstrasse
+Bahnhofstrasse & Hauptstrasse & Raeuberegge
+Bahnhofstrasse & Unterdorf
+Bahnhofstrasse
+Bahnhofstrasse & Helvetiastrasse
+Bahnhofstrasse
+Bahnhofstrasse & Aarestrasse
+Bahnhofstrasse
+Spitalweg & Helvetiastrasse
+Spitalweg
+Spitalweg
+Spitalweg & Gurbenstrasse
+<unknown> & Bahnhofstrasse & Aareckstrasse
+<unknown> & Aareckstrasse
+Aareckstrasse
+Aareckstrasse
+Aareckstrasse
+Marktgasse & Aareckstrasse
+Strandbadstrasse & Viktoriastrasse
+Viktoriastrasse
+Klosterstrasse & Höheweg
+Höheweg
+<unknown>
+<unknown>
+Kanalpromenade & Tschingeleystrasse
+Kanalpromenade
+Kanalpromenade
+Kanalpromenade & Fabrikstrasse
+<unknown> & Aarmühlestrasse
+Aarmühlestrasse
+<unknown> & Aarmühlestrasse
+Aarmühlestrasse
+Aarmühlestrasse & Rosenstrasse
+Aarmühlestrasse
+Centralstrasse
+Niesenstrasse
+Niesenstrasse & Florastrasse
+Niesenstrasse & Rosenstrasse
+<unknown> & Florastrasse
+<unknown> & Florastrasse
+Florastrasse & Rosenstrasse
+Schlossstrasse & Schloss
+Schlossstrasse
+Schlossstrasse
+Schlossstrasse
+Freiestrasse & Schlossstrasse
+Alpenstrasse & Sonnenhof
+<unknown> & Alpenstrasse
+Alpenstrasse
+Alpenstrasse & Sonnenhof
+Alpenstrasse & Klostergässli
+Sonnenhof
+Klosterstrasse & Sonnenhof
+Sonnenhof & Parkstrasse
+Weissenaustrasse
+Weissenaustrasse
+Weissenaustrasse
+<unknown> & Untere Bönigstrasse
+<unknown>
+Lindenallee & Landi-Kreisel
+Lindenallee
+Landi-Kreisel & Untere Bönigstrasse
+Landi-Kreisel & Untere Bönigstrasse
+Untere Bönigstrasse
+<unknown> & Untere Bönigstrasse
+<unknown> & Untere Bönigstrasse
+Untere Bönigstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Bühlweg & Rütistrasse
+Bühlweg
+Kesslergasse & Alte Unterdorfstrasse
+Kesslergasse
+<unknown> & Lindenallee
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Lindenallee
+Lindenallee
+Hauptstrasse
+<unknown> & Hauptstrasse & Untere Gasse
+Marktgasse & Spielmatte
+Spielmatte
+Spielmatte & Kreuzgasse
+Kreuzgasse & Beatenbergstrasse
+Beatenbergstrasse & Untere Goldey
+Beatenbergstrasse & Gartenstrasse
+Gartenstrasse
+Gartenstrasse
+<unknown> & Gartenstrasse & Hintere Scheidgasse
+Kreuzgasse & Hauptstrasse
+Kreuzgasse & Obdorfstrasse
+<unknown> & Untere Goldey
+<unknown> & Obere Goldey
+Kirchstrasse & Hauptstrasse
+Kirchstrasse & Alpenstrasse
+Kirchstrasse
+Kirchstrasse
+Kirchstrasse
+Kirchstrasse & Chapelligässli
+Kirchstrasse & Alter Kirchweg
+<unknown>
+Gsteigstrasse & Alte Staatsstrasse & Hauptstrasse & Aegertzaunweg
+Alte Staatsstrasse
+<unknown>
+<unknown>
+Interlakenstrasse
+Untere Bönigstrasse
+Untere Bönigstrasse
+<unknown> & Untere Bönigstrasse
+<unknown> & Untere Bönigstrasse & Interlakenstrasse
+Interlakenstrasse & Lütschinenstrasse
+Lütschinenstrasse & Nordstrasse
+Lütschinenstrasse & Nordstrasse
+Lütschinenstrasse & Aareweg
+Lütschinenstrasse & Campingstrasse
+Lütschinenstrasse
+<unknown> & Lütschinenstrasse
+Aareweg
+Aareweg
+Aareweg
+Aareweg & Nordstrasse
+Aareweg
+<unknown> & Aareweg & Campingstrasse
+Hauptstrasse & Oberlandstrasse & Seestrasse & Parkstrasse
+Hauptstrasse & Frutigergässli
+Hauptstrasse & Harderstrasse
+Hauptstrasse & Feldweg
+Hauptstrasse & Schulhausgasse
+Hauptstrasse & Lindenweg
+Hauptstrasse & Postgässli
+Hauptstrasse & Brunngasse
+Oberlandstrasse & Endweg
+Oberlandstrasse
+Oberlandstrasse & Leischenstrasse
+<unknown> & Oberlandstrasse
+Brunnengasse & Hauptstrasse
+Brunnengasse & Gässli
+Brunnengasse & Kirchgasse & Grubengasse
+Kirchgasse & Hauptstrasse
+Waldeggstrasse & Spirenwaldstrasse
+Waldeggstrasse
+Waldeggstrasse
+Waldeggstrasse
+<unknown>
+<unknown> & Lochstrasse
+Lochstrasse & Hauptstrasse
+Höheweg & Schlossstrasse
+Schlossstrasse
+Schlossstrasse
+<unknown> & Lütschine
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Lütschine
+<unknown> & Lütschine
+<unknown> & Lütschine
+<unknown> & Lütschine
+Brienzstrasse
+Kupfergasse
+Obere Bönigstrasse & Kupfergasse
+Friedweg & Rothornstrasse
+Friedweg
+Waldeggstrasse & Friedweg
+Waldeggstrasse & Därligenstrasse & Rugenparkstrasse
+<unknown> & Därligenstrasse
+<unknown> & Därligenstrasse
+Därligenstrasse
+<unknown> & Rosenstrasse
+Rosenstrasse
+Hauptstrasse & Reginaweg
+Hauptstrasse
+Hauptstrasse
+Tellweg
+Tellweg
+<unknown> & Tellweg
+Tellweg
+Hauptstrasse & Tellweg
+Hauptstrasse & Baumgartenstrasse
+Baumgartenstrasse
+Baumgartenstrasse
+Baumgartenstrasse & Dorfstrasse
+Hauptstrasse & Brunngasse
+Brunngasse & Kirchgässli
+Dorfstrasse
+Kupfergasse & Dorfstrasse
+Brunngasse & Dorfstrasse
+Gsteigstrasse & Mattenstrasse
+Mattenstrasse & Eyacheri
+Mattenstrasse & Fliederweg
+Mattenstrasse & Eyacheri
+Mattenstrasse & Hertigässli
+Gsteigstrasse & Nelkenweg
+Nelkenweg
+Kupfergasse & Herziggässli
+Herziggässli
+Aegertenstrasse & Herziggässli
+Lindenallee
+Lindenallee
+Birkenweg & Parkstrasse
+<unknown> & Birkenweg
+Birkenweg
+Birkenweg
+Klostergässli
+Klostergässli
+<unknown> & Klostergässli
+<unknown> & Klostergässli
+<unknown> & Klostergässli
+Rütistrasse
+Gartenstrasse & Hauptstrasse
+Gartenstrasse & Im Eggen
+Gartenstrasse & Neuenstrasse
+Gartenstrasse & Friedheim
+Gartenstrasse & Chrisdöriweg
+Gsteigstrasse & Hauptstrasse & Rugenstrasse
+Rugenstrasse & Feldgässli
+Wengelacher & Wagnerenstrasse
+Wengelacher
+Wagnerenstrasse & Unspunnenstrasse
+<unknown> & Wagnerenstrasse
+Feldgässli
+<unknown> & Oberlandstrasse & Panoramaweg
+Obereigasse & Hauptstrasse
+Obereigasse
+Obereigasse
+Obereigasse & Dickiweg
+Obereigasse & Wydistrasse
+Obereigasse
+Obereigasse
+Obereigasse & Mühlenenstrasse
+Obereigasse & Lehngasse
+Obereigasse & Grenchenstrasse
+Grenchenstrasse & Grenchenweg
+Postgasse
+Postgasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Amisbühlstrasse
+Amisbühlstrasse
+Amisbühlstrasse
+Rugenstrasse & Unspunnenstrasse & Scheurenweg
+Rugenstrasse & Unionsgasse
+Rugenstrasse & Lehngasse & Kirchgasse & Oberdorfstrasse
+Lehngasse & Hubelweg
+Lehngasse
+Lehngasse & Schulgässli & Kreuzgasse
+Lehngasse
+Lehngasse & Mühlenenstrasse
+Lehngasse & Mühlenenstrasse
+Lehngasse & Sandweg
+Wagnerenstrasse & Heimwehfluhstrasse
+<unknown> & Heimwehfluhstrasse
+<unknown> & Heimwehfluhstrasse
+Lärchenweg
+<unknown> & Unterdorfstrasse & Lärchenweg
+Lärchenweg
+Lärchenweg
+Lärchenweg
+Unterdorfstrasse & Alte Unterdorfstrasse
+<unknown> & Alte Unterdorfstrasse
+Hobachergässli
+Kesslergasse & Hobachergässli
+Rütigässli
+Kupfergasse & Rütigässli
+Schloss
+Mühleholzstrasse & Beatenbergstrasse
+Mühleholzstrasse
+Mühleholzstrasse & Gummenstrasse
+Mühleholzstrasse & Lombachzaunweg
+Steindlerstrasse & Seidenfadenstrasse
+Steindlerstrasse & Schulhausstrasse
+Steindlerstrasse
+Steindlerstrasse
+Steindlerstrasse
+Steindlerstrasse
+Steindlerstrasse & Stadtfeldstrasse
+Scheidgasse & Seidenfadenstrasse
+Seidenfadenstrasse
+Seidenfadenstrasse & Hohmüedig
+Seidenfadenstrasse & Am Lauener
+Seidenfadenstrasse
+<unknown> & Seidenfadenstrasse
+Mittlere Strasse & Bohnerenstrasse
+Bockstorweg
+Juheigässli & Aenderbergstrasse
+Juheigässli
+Juheigässli
+<unknown> & Juheigässli & Feldweg
+Kupfergasse & Feldweg
+Mattenstrasse & Blumenstrasse
+Blumenstrasse & Gsteigstrasse
+Seestrasse & Wellenacher
+Wellenacher & Breite
+Wellenacher
+Wellenacher
+Wellenacher
+<unknown> & Wellenacher
+<unknown> & Wellenacher
+<unknown> & Wellenacher
+<unknown> & Wellenacher
+Wellenacher
+Vorholzstrasse
+Mühleholzstrasse
+Mühleholzstrasse & Bockstorweg
+Mühleholzstrasse & Brawandsteg
+Scheidgasse & Freihofstrasse
+Freihofstrasse & Hintere Scheidgasse
+Freihofstrasse
+Freihofstrasse
+Freihofstrasse
+Freihofstrasse
+Freihofstrasse
+Freihofstrasse
+Freihofstrasse & Auf dem Graben
+Seestrasse & Bohnerenstrasse
+Seestrasse
+Breitengässli
+Breitengässli
+Seestrasse & Breitengässli
+Spielmatte
+Spielmatte & Aarestrasse
+Am Lauener
+Am Lauener & Gummenstrasse
+Am Lauener
+Am Lauener
+Brawandsteg & Aenet dem Lombach
+Beatenbergstrasse
+Wagnerenstrasse
+Wagnerenstrasse
+Rugenstrasse
+Rugenstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Lindi
+Bühl & Lindi
+Bühl
+Bühl
+Bühl & Wychel & Moos
+Aenderbergstrasse
+Aenderbergstrasse & Flurweg
+Aenderbergstrasse
+Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Gsteigstrasse
+Mattenstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Allmendstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Unterseen
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Brienzstrasse
+<unknown> & Brienzstrasse
+<unknown> & Brienzstrasse
+<unknown>
+<unknown>
+Dickiweg
+Dickiweg
+Lombachzaunweg & Im Muri
+Lombachzaunweg
+Lombachzaunweg
+Lombachzaunweg
+Gummenstrasse
+Gummenstrasse & Stadtfeldstrasse
+Gummenstrasse
+Gummenstrasse
+Gummenstrasse
+Dammweg & Kammistrasse
+Im Moos
+Im Moos
+Im Moos
+Im Moos
+Im Moos
+Waldeggstrasse & Amisbühlstrasse
+Waldeggstrasse
+Waldeggstrasse
+<unknown> & Waldeggstrasse
+Waldeggstrasse
+Seestrasse & Gurbenstrasse
+Seestrasse
+Seestrasse & Oberdorf
+Seestrasse & Unterdorf
+Seestrasse & Scheidgasse & Raeuberegge
+Unspunnenstrasse
+Unspunnenstrasse & Wengelacherweg
+Unspunnenstrasse
+Weissenaustrasse
+Blattacherweg & Bützigeweg
+<unknown> & Blattacherweg
+Blattacherweg
+Blattacherweg & Schorreweg & Matteweg
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Schulgässli & Hauptstrasse
+Schulgässli
+Schulgässli & Mühlenenfeldweg
+Schulgässli
+Schulgässli
+Schulgässli
+Schulgässli
+Kirchgasse & Hauptstrasse
+Kirchgasse & Aegertzaunstrasse
+Kirchgasse
+Kirchgasse
+Kirchgasse
+Kirchgasse & Unter der Fuhre
+Kirchgasse & Sydachstrasse
+Kirchgasse & Dorfmattenstrasse
+Allmendstrasse
+Mühlenenstrasse & Sandweg
+Mühlenenstrasse & Hubelweg
+Mühlenenstrasse
+Mühlenenstrasse & Büelgässli
+Mühlenenstrasse
+Mühlenenstrasse
+Mühlenenstrasse & Steiniweg
+Leima & Gasse & Beim Brunnen & Moos
+<unknown> & Leima
+Büelgässli & Oberdorfstrasse
+Büelgässli & Kupfergasse
+Büelgässli
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Goldswil-Viadukt
+<unknown>
+<unknown>
+<unknown> & Lindenallee
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Lindenallee
+Lindenallee
+<unknown> & Saxetenstrasse
+<unknown>
+<unknown> & Hohfluhstrasse
+Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse & Hindere Eywald
+Hauptstrasse & Kreuzimaadweg
+<unknown> & Hauptstrasse
+<unknown> & Hauptstrasse
+Hauptstrasse
+Sydachstrasse & Kreuzimaadweg & Feldgässli
+Sydachstrasse
+<unknown> & Sydachstrasse
+Sydachstrasse & Sydachweg
+Sydachstrasse & Sydachweg
+Sydachstrasse
+Aegertzaunstrasse
+Aegertzaunstrasse & Kreuzimaadweg
+Aegertzaunstrasse & Aegertzaunweg
+Aegertzaunstrasse
+Scheurenweg
+Scheurenweg
+Scheurenweg
+Scheurenweg & Feldgässli
+Sydachweg
+Kirchgasse & Unterdorfweg
+Unterdorfweg
+Dorfmattenstrasse
+Kirchgasse
+Unter der Fuhre
+Kirchgasse & Unionsgasse
+Mühlenenfeldweg
+Staatsstrasse
+Staatsstrasse
+Hubelweg & Kreuzgasse
+Hubelweg
+Hubelweg
+Hubelweg
+Hubelweg
+Kupfergasse & Oberdorfstrasse
+Kreuzimaadweg
+Kreuzimaadweg
+Steiniweg
+Steiniweg
+Talweg & Oberdorfstrasse
+Talweg
+Oberdorfweg
+Oberdorfweg & Oberdorfstrasse
+Oberdorfstrasse
+Unspunnenstrasse
+Wengelacher & Wengelacherweg
+Alte Staatsstrasse & Dammweg
+Alte Staatsstrasse & Allmendstrasse
+Alte Staatsstrasse & Allmendstrasse
+Mittelweg
+Mittelweg
+<unknown> & Mittelweg
+<unknown> & Mittelweg
+<unknown> & Mittelweg
+<unknown> & Mittelweg
+Mittelweg & Bönigstrasse
+Allmendstrasse
+Alte Staatsstrasse
+Alte Staatsstrasse & Bönigstrasse
+Rugenstrasse
+Rugenstrasse & Wengelacher
+Heimwehfluhstrasse
+<unknown> & Heimwehfluhstrasse
+Obereigasse & Wydistrasse
+Wydistrasse
+Wydistrasse
+Wydistrasse
+Grenchenstrasse
+<unknown> & Saxetbachweg
+Saxetbachweg & Saxetenstrasse
+Saxetenstrasse & Grenchenweg
+Saxetenstrasse
+Saxetenstrasse
+Grenchenweg
+Rüti
+Aenderbergstrasse & Lütschinenstrasse
+<unknown> & Aenderbergstrasse
+<unknown> & Aenderbergstrasse
+<unknown> & Aenderbergstrasse
+<unknown> & Aenderbergstrasse
+<unknown> & Aenderbergstrasse
+<unknown> & Aenderbergstrasse
+<unknown> & Aenderbergstrasse
+Senggigässli
+Senggigässli
+Kirchgasse
+Rugenstrasse
+<unknown> & Wagnerenstrasse
+Rugenstrasse & Kleiner Rugen
+Kleiner Rugen
+<unknown>
+Baumgarten & Gurbenstrasse
+Baumgarten
+Baumgarten
+Baumgarten
+Baumgarten
+Baumgarten
+Baumgarten & Unterdorf & Helvetiastrasse
+Scheidgasse & Oberdorf
+Hintere Scheidgasse
+Scheidgasse & Hintere Scheidgasse
+Guetehusestrasse & Stadtfeldstrasse
+Guetehusestrasse
+Guetehusestrasse
+Guetehusestrasse
+Guetehusestrasse
+<unknown> & Guetehusestrasse
+Steindlerstrasse & Guetehusestrasse
+Im Muri
+Im Muri & Stadtfeldstrasse
+Stadtfeldstrasse
+Stadtfeldstrasse
+Rugenstrasse
+Grenchenstrasse
+Grenchenstrasse
+Grenchenstrasse & Staatsstrasse
+<unknown>
+<unknown>
+Scheidgasse
+Scheidgasse
+Am Quai & Seestrasse
+Am Quai
+Höheweg & Untere Bönigstrasse
+Höheweg
+<unknown> & Höheweg
+Höheweg
+Beatenbergstrasse & Spirenwaldstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Campingstrasse
+Campingstrasse
+Interlakenstrasse & Erlenweg
+Aegertenstrasse & Aenderbergstrasse & Bönigstrasse
+<unknown>
+Unterseen
+<unknown>
+<unknown>
+Strandbadstrasse
+<unknown> & Strandbadstrasse
+Strandbadstrasse
+Schorreweg
+Schorreweg
+Schorreweg
+Dorfstrasse & Schorreweg
+Gsteigstrasse & Wilderswil
+<unknown> & Wilderswil
+Fabrikstrasse
+<unknown> & Fabrikstrasse
+<unknown> & Fabrikstrasse
+Fabrikstrasse
+<unknown> & Beundenstrasse
+Beundenstrasse
+Beundenstrasse
+Beundenstrasse
+Beundenstrasse
+Beatenbergstrasse & Beundenstrasse
+Seestrasse & Hindere Eywald
+Hauptstrasse
+Höheweg
+Lindenallee & Aldi-Kreisel
+Lindenallee
+Lindenallee & Aldi-Kreisel
+Seestrasse
+<unknown> & Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse
+<unknown> & Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse
+<unknown> & Seestrasse
+Seestrasse
+Seestrasse
+<unknown>
+Gewerbeweg
+Hauptstrasse
+Hauptstrasse & Seestrasse
+Hauptstrasse
+<unknown>
+<unknown> & Eyenweg
+<unknown> & Buechwaldgasse
+<unknown> & Dorfgasse
+<unknown> & Hobachergasse
+<unknown> & Walmweg
+<unknown> & Talstrasse
+<unknown>
+<unknown> & Hauptstrasse
+Hauptstrasse
+Hauptstrasse & Strandbadweg
+Hauptstrasse
+Hauptstrasse & Kreuzlistrasse
+Hauptstrasse
+Hauptstrasse & Burgweg
+Hauptstrasse & Hagenstrasse
+<unknown> & Lindenallee
+<unknown> & Hauptstrasse
+Hauptstrasse & Stapfackerweg
+Hauptstrasse
+Hauptstrasse & Lengenmattenweg
+Hauptstrasse & Lengenmattenweg
+Unspunnenstrasse
+Postgasse
+Postgasse
+Postgasse
+Gurbenstrasse
+Bürgliweg & Brandstrasse
+Bürgliweg
+Kappelistrasse & Obdorfstrasse
+Kappelistrasse & Gartenstrasse
+Kappelistrasse
+Kappelistrasse & Hagenstrasse
+Hauptstrasse & Beundenstrasse
+Beundenstrasse & Moosgasse
+Beundenstrasse
+<unknown> & Beundenstrasse
+<unknown>
+<unknown> & Beundenstrasse
+Hauptstrasse & Beundenstrasse
+<unknown> & Grubengasse
+<unknown>
+Höheweg
+Höheweg
+Aarestrasse
+Rugenparkstrasse
+Unterdorf
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Industriestrasse
+<unknown>
+<unknown>
+Lütschinenstrasse
+Lütschinenstrasse
+<unknown>
+<unknown> & Lütschinenstrasse
+<unknown>
+Seestrasse
+<unknown> & Seestrasse
+Seestrasse
+Obere Stockteile & Untere Stockteile & Harderstrasse
+Am Quai & Untere Stockteile & In den Gärten & Parkstrasse
+Riedweg & Panoramaweg
+Riedweg
+Harderstrasse
+Harderstrasse & In den Gärten
+Harderstrasse & Rothornstrasse
+<unknown> & Seestrasse
+<unknown>
+Seestrasse
+Seestrasse
+Seestrasse
+<unknown> & Seestrasse
+<unknown> & Seestrasse
+<unknown> & Seestrasse
+Seestrasse
+Klosterstrasse & Lindenallee
+Klosterstrasse & Lindenallee
+Steini
+Steini
+Steini
+Steini & Wychel
+Wychel
+Wychel & Gasse
+Gasse & Allmend
+Gasse & Egg
+<unknown>
+<unknown>
+<unknown> & Staatsstrasse
+Friedweg & Rugenparkstrasse
+<unknown> & Friedweg
+Mühlegässli & Untere Gasse
+Mühlegässli & Unter den Häusern
+Kreuzgasse & Unter den Häusern
+Waldeggstrasse & Rugenaustrasse
+Beatenbergstrasse & Habkerngässli
+Kreuzgasse & Habkerngässli
+Waldeggstrasse
+<unknown> & Waldeggstrasse
+Blumenstrasse & Harderstrasse
+Postgasse & Blumenstrasse
+Marktgasse & Blumenstrasse
+Postgasse & Blumenstrasse
+Blumenstrasse
+Marktgasse & Aareckstrasse
+Aareckstrasse
+Postgasse
+<unknown>
+<unknown>
+<unknown> & Waldeggstrasse
+Waldeggstrasse
+Waldeggstrasse
+<unknown>
+<unknown> & Waldeggstrasse
+<unknown>
+<unknown>
+Untere Goldey & Obere Goldey
+Untere Goldey
+Untere Goldey
+Strandbadstrasse & Untere Goldey
+Untere Goldey
+Untere Goldey
+Obere Goldey
+Beatenbergstrasse & Obere Goldey
+Obere Goldey
+<unknown> & Obere Goldey
+Obere Goldey
+Obere Goldey
+Spielmatte
+Waldeggstrasse & Alpenstrasse & Jungfraustrasse
+Jungfraustrasse
+Waldeggstrasse
+Waldeggstrasse
+Waldeggstrasse & Jungfraustrasse
+Waldeggstrasse & Centralstrasse
+Tschingeley
+Untere Gasse & Auf dem Graben
+Untere Gasse
+Mittengrabenstrasse
+Mittengrabenstrasse
+Mittengrabenstrasse
+Stadtfeldstrasse
+Scheidgasse
+Scheidgasse & Gartenstrasse
+Gsteigstrasse & Kirchgässli
+Gsteigstrasse
+Lindenallee & Kreisel Lindenallee
+Lindenallee & Kreisel Lindenallee
+Lindenallee & Kreisel Lindenallee
+Lindenallee & Kreisel Lindenallee
+Lindenallee & Aldi-Kreisel
+<unknown> & Aldi-Kreisel
+<unknown> & Aldi-Kreisel
+Steindlerstrasse
+<unknown> & Steindlerstrasse
+Steindlerstrasse
+Scheidgasse
+Scheidgasse & Bohnerenstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Hertigässli
+Hertigässli
+Hertigässli
+Nelkenweg & Hertigässli
+<unknown> & Obereigasse
+Obereigasse & Saxetenstrasse
+<unknown> & Weissenaustrasse
+<unknown> & Weissenaustrasse
+Waldeggstrasse
+Waldeggstrasse
+Waldeggstrasse & General-Guisan-Strasse
+Parkstrasse
+<unknown> & Hauptstrasse
+Hauptstrasse
+Leima & Beim Brunnen & Halten
+Hauptstrasse & Rosswaldstrasse
+<unknown> & Seestrasse & Moosgasse
+Seestrasse & Büeliweg
+<unknown> & Seestrasse
+Seestrasse
+Spirenwaldstrasse
+Spirenwaldstrasse
+<unknown> & Spirenwaldstrasse
+<unknown> & Spirenwaldstrasse
+Spirenwaldstrasse
+Waldeggstrasse
+Waldeggstrasse
+Waldeggstrasse
+Waldeggstrasse
+Waldeggstrasse
+Waldeggstrasse
+<unknown>
+<unknown>
+<unknown> & Spirenwaldstrasse
+Amisbühlstrasse
+<unknown> & Amisbühlstrasse
+Beatenbergstrasse
+Spirenwaldstrasse
+Spirenwaldstrasse
+Spirenwaldstrasse
+<unknown> & Lütschine
+Lütschine
+<unknown>
+Postgasse
+Postgasse
+Burgweg & Birkenweg
+<unknown> & Burgweg
+Burgweg & Bellevuestrasse
+Burgweg & Brandstrasse
+Hagenstrasse
+Hagenstrasse
+Hagenstrasse
+Hagenstrasse
+Hagenstrasse
+Brandstrasse
+Höheweg
+Rugenparkstrasse
+Waldeggstrasse
+Waldeggstrasse
+Wagnerenstrasse
+<unknown> & Untere Bönigstrasse
+Untere Bönigstrasse
+<unknown> & Untere Bönigstrasse
+<unknown> & Untere Bönigstrasse
+Untere Bönigstrasse & BUS
+<unknown> & Untere Bönigstrasse
+Untere Bönigstrasse & BUS
+Untere Bönigstrasse
+Höheweg
+Höheweg & Kammistrasse
+Kammistrasse
+<unknown> & Goldswil-Viadukt
+<unknown>
+<unknown>
+<unknown>
+Lütscherenstrasse
+Lütscherenstrasse
+Lütscherenstrasse
+Tschingeleystrasse & Tschingeley
+Gurbenstrasse & Helvetiastrasse
+Weissenaustrasse & Wyden
+Wyden & Eichzun
+Seestrasse
+Seestrasse
+<unknown> & Seestrasse
+<unknown> & Seestrasse
+Seestrasse
+Kirchgasse
+Kirchgasse
+Kirchgasse
+Kirchgasse & Bürgliweg
+Neugasse & Strandbadstrasse
+Bahnhofstrasse
+Bahnhofstrasse
+Bahnhofstrasse
+<unknown> & Bahnhofstrasse
+Bahnhofstrasse
+Matteweg & Hinderi Gasse
+Matteweg & Brunnegasse & Wyngarteweg
+<unknown> & Dorfstrasse
+Dorfstrasse & Hinderi Gasse
+Dorfstrasse & Brunnegasse
+Weissenaustrasse
+Hauptstrasse & Krachengässli
+<unknown>
+<unknown>
+Bahnhofstrasse & Krachengässli
+Bahnhofstrasse
+Marktgasse & Postgasse
+Marktgasse & Postgasse
+Weissenaustrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Am Rugen
+Hauptstrasse & Am Rugen
+Kesslergasse
+Aenderbergstrasse
+Am Quai
+In den Gärten & Adlerweg
+In den Gärten & Rosenweg
+In den Gärten & Rosenweg
+<unknown> & Parkstrasse
+Parkstrasse & Rothornstrasse
+Mattenstrasse & Gsteigstrasse & Hauptstrasse
+Seestrasse
+Seestrasse
+Seestrasse
+Steindlerstrasse
+Steindlerstrasse
+Leima
+Halten & Im Garten
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Beatenbergstrasse
+Beatenbergstrasse & Habkernstrasse
+Eyenweg
+Eyenweg
+Eyenweg
+Eyenweg & Bödeliweg
+Eyenweg
+Eyenweg
+Eyenweg
+Eyenweg
+Eyenweg
+Eyenweg
+Eyenweg
+Eyenweg
+Güntschenacherweg
+Dorfgasse
+Dorfgasse
+Dorfgasse
+Dorfgasse
+Dorfgasse
+Dorfgasse & Güntschenacherweg & Bödeliweg
+Talstrasse
+Talstrasse
+Talstrasse
+Güntschenacherweg & Talstrasse
+Talstrasse
+Talstrasse
+Talstrasse
+Talstrasse
+Bödeliweg
+Rugenparkstrasse
+Rugenparkstrasse
+Postgasse
+<unknown> & Neugasse
+<unknown>
+<unknown> & Rugenparkstrasse
+<unknown>
+Eyenweg
+Eyenweg
+Buechwaldgasse
+Buechwaldgasse & Hobachergasse
+<unknown>
+<unknown>
+<unknown> & Stapfackerweg
+Walmweg
+Bohnerenstrasse
+Breite & Chrützacher
+Chrützacher
+Chrützacher
+Chrützacher
+Seestrasse & Chrützacher
+Viktoriastrasse & Harderstrasse
+Harderstrasse
+Harderstrasse
+Neugasse & Harderstrasse
+Untere Gasse & Kirchgasse
+Kirchgasse & Obere Gasse
+<unknown> & Obere Gasse
+Steindlerstrasse
+Mittlere Strasse & Vorholzstrasse
+Mittlere Strasse
+Auf dem Graben
+<unknown>
+Vorholzstrasse
+Höheweg
+Höheweg
+Höheweg
+Dorfmattenstrasse
+Aegertenstrasse & Aenderbergstrasse
+Brunngasse
+Gsteigstrasse & Dahlienweg
+<unknown> & Dahlienweg
+Eyacheri
+Eyacheri
+Fliederweg
+Gsteigstrasse & Fliederweg
+Flurweg
+Flurweg
+Senggigässli & Flurweg
+Hauptstrasse
+Gsteigstrasse
+Im Moos
+Kirchgässli
+Kirchgässli
+Kirchgässli
+Hertigässli
+Reginaweg
+Rosenweg
+Senggigässli & Rosenweg
+Geissgasse
+Geissgasse
+Eyacheri
+Untere Bönigstrasse
+<unknown> & Am Quai
+<unknown> & Am Quai
+Adlerweg & Rothornstrasse
+Alpenstrasse & Rossacherweg
+Alpenstrasse
+<unknown> & Alpenstrasse
+Alpenstrasse
+Alpenstrasse
+<unknown> & Alpenstrasse
+Alter Kirchweg
+Alter Kirchweg
+Alter Kirchweg
+Alter Kirchweg & Panoramaweg
+Beundengasse & Schulhausgasse
+Beundengasse & Wittrigässli
+Beundengasse & Höhenrain
+Brunngasse
+Brunngasse & Postgässli
+Brunngasse & Chapelligässli
+Brunngasse & Schulhausgasse & Höhenrain
+Chapelligässli
+Chapelligässli & Schulhausgasse
+Endweg & Feldweg & Höhenrain
+Feldweg & Wittrigässli
+Feldweg & Frutigergässli
+Riedweg & Feldweg
+Oberlandstrasse & Feldweg
+Kirchstrasse
+Kirchstrasse & Brunngasse
+Brunngasse & Leischenstrasse
+Leischenstrasse
+Leischenstrasse & Riedgasse
+Riedweg & Leischenstrasse
+Gsteigstrasse & Lischmaadweg
+Lischmaadweg & Rossacherweg
+Lütschinenstrasse
+Panoramaweg
+Panoramaweg
+Riedweg
+Riedweg
+Riedweg
+Rosenweg
+Rossacherweg
+<unknown> & Rossacherweg
+Gsteigstrasse & Rossacherweg
+<unknown> & Rossacherweg
+<unknown> & Rossacherweg
+Gsteigstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Oberdorfgasse & Höhenrain
+Oberdorfgasse & Riedgasse
+Wittrigässli & Höhenrain
+Beatenbergstrasse
+Bockstorweg
+Fabrikstrasse
+Fabrikstrasse
+Fabrikstrasse
+<unknown> & Gsteigstrasse
+<unknown> & Gsteigstrasse
+Hauptstrasse & Blumenstrasse
+Hauptstrasse
+<unknown> & Hauptstrasse
+Kanalpromenade
+Mühleholzstrasse
+Mühleholzstrasse
+Panoramaweg
+Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse
+Seestrasse
+<unknown> & Seestrasse
+Waldeggstrasse & Wagnerenstrasse
+Seestrasse
+<unknown> & Seestrasse
+Seestrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Fillacherweg
+Fillacherweg
+Fillacherweg
+Seestrasse & Fillacherweg
+Seestrasse
+Zügliweg
+Zügliweg
+Zügliweg
+Seestrasse & Zügliweg
+Nordstrasse
+Nordstrasse
+Nordstrasse
+Nordstrasse
+Nordstrasse
+Blumenstrasse & Wydiweg
+<unknown> & Blumenstrasse
+Mattenstrasse & Blumenstrasse
+Erlenweg
+Erlenweg
+Eyweg & Friedheim
+Eyweg & Niesenweg
+Eyweg & Renggliweg
+Eyweg & Renggliweg
+Friedheim
+Neuenstrasse & Niesenweg
+Neuenstrasse & Wydiweg
+<unknown> & Mattenstrasse
+<unknown>
+<unknown>
+Renggliweg
+Renggliweg & Wydiweg
+Aenderbergstrasse
+Aenderbergstrasse
+Aenderbergstrasse
+<unknown> & Obere Bönigstrasse
+<unknown> & Obere Bönigstrasse
+Obere Bönigstrasse
+Obere Bönigstrasse
+Feldgässli
+Feldgässli
+Hauptstrasse
+Jungfraustrasse
+Jungfraustrasse
+Kirchgässli
+Kupfergasse & Rütistrasse
+Kupfergasse
+Rugenstrasse
+Rugenstrasse
+Rugenstrasse
+Rugenstrasse
+Rugenstrasse
+Rugenstrasse
+Rugenstrasse
+Rugenstrasse
+Rugenstrasse
+Senggigässli
+Senggigässli
+Senggigässli
+Senggigässli
+Senggigässli
+Senggigässli & Hertigässli
+Waldeggstrasse
+Waldeggstrasse
+Centralstrasse
+<unknown> & Centralstrasse
+Höheweg
+<unknown> & Höheweg
+<unknown> & Höheweg
+Höheweg
+Marktgasse
+<unknown> & Rosenstrasse
+Rugenparkstrasse
+Lindenallee
+Gartenstrasse
+Beatenbergstrasse
+Steindlerstrasse & Vorholzstrasse
+Gummenstrasse
+Gummenstrasse
+Vorholzstrasse
+Vorholzstrasse
+Vorholzstrasse
+Schulhausstrasse
+Vorholzstrasse
+Vorholzstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Gassenweg & Obdorfstrasse
+Gassenweg
+<unknown> & Gassenweg
+<unknown> & Bellevuestrasse
+<unknown> & Bellevuestrasse
+Bellevuestrasse
+Bellevuestrasse
+<unknown> & Bahnhofstrasse
+Bahnhofstrasse & Aarmühlestrasse
+Beatenbergstrasse
+<unknown>
+<unknown> & Untere Bönigstrasse
+Untere Bönigstrasse
+Habkernstrasse
+Alte Staatsstrasse & Allmendstrasse
+<unknown>
+<unknown>
+<unknown> & Därligenstrasse
+<unknown>
+<unknown>
+<unknown> & Gassenweg
+<unknown> & Hohfluhstrasse
+<unknown> & Hohfluhstrasse
+Hohfluhstrasse & Gassenweg
+Untere Goldey
+Vorholzstrasse
+Vorholzstrasse
+Vorholzstrasse
+<unknown> & Postgasse
+Auf dem Graben
+Auf dem Graben
+Beatenbergstrasse & Auf dem Graben
+<unknown>
+<unknown> & Beatenbergstrasse
+<unknown>
+Aenet dem Lombach
+Seestrasse
+Seestrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Weissenaustrasse
+Eichzun
+Eichzun
+Eichzun
+Weissenaustrasse
+Weissenaustrasse
+Seestrasse
+<unknown>
+<unknown> & Weissenaustrasse
+<unknown>
+<unknown>
+Gurbenstrasse
+<unknown>
+<unknown>
+Helvetiastrasse
+Helvetiastrasse
+Gurbenstrasse
+<unknown>
+<unknown> & Weissenaustrasse
+Alpenstrasse
+Höheweg
+<unknown> & Höheweg
+<unknown> & Höheweg
+Höheweg
+Höheweg
+Freiestrasse & Höheweg
+Brienzstrasse & Höheweg
+<unknown>
+<unknown>
+Tschingeley
+<unknown>
+Fabrikstrasse
+Fabrikstrasse
+Rosswaldstrasse
+Rosswaldstrasse
+Rosswaldstrasse
+Hauptstrasse & Obdorfstrasse
+Hohfluhstrasse
+<unknown>
+<unknown>
+Jungfraustrasse
+<unknown>
+Rosenstrasse
+Höheweg
+Rosenstrasse
+Rugenparkstrasse
+Centralstrasse
+<unknown> & Birkenweg
+Birkenweg & Schulhausweg
+Hagenstrasse
+<unknown> & Hagenstrasse
+Hagenstrasse
+Hagenstrasse
+Hauptstrasse & Schulhausweg
+Schulhausweg
+Schulhausweg
+Gartenstrasse
+<unknown> & Brandstrasse
+Alte Strasse
+Alte Strasse
+<unknown> & Alte Strasse
+Hauptstrasse & Alte Strasse
+Alte Strasse & Hüpplengasse
+<unknown> & Hauptstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse & Rüti
+Beatenbergstrasse
+Rüti
+Rüti
+Rüti
+Beatenbergstrasse
+Lengenmattenweg & Kreuzlistrasse
+Lengenmattenweg
+<unknown> & Kreuzlistrasse
+<unknown>
+Schlossstrasse
+Freiestrasse
+Jungfraustrasse
+Jungfraustrasse
+Höheweg
+Waldeggstrasse
+Jungfraustrasse
+Spirenwaldstrasse
+<unknown> & Spirenwaldstrasse
+Spirenwaldstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Habkernstrasse
+Habkernstrasse
+Bahnhofstrasse
+Bahnhofstrasse
+Bahnhofstrasse
+Därligenstrasse
+Därligenstrasse & Lütscherenstrasse
+Därligenstrasse
+Fabrikstrasse & Lütscherenstrasse
+Lütscherenstrasse
+Lütscherenstrasse
+Fabrikstrasse
+Fabrikstrasse
+<unknown>
+<unknown> & Untere Gasse
+<unknown>
+Schwalmerenweg
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Waldeggstrasse
+<unknown>
+<unknown>
+<unknown> & Gsteigstrasse
+<unknown>
+<unknown>
+Waldeggstrasse
+Jungfraustrasse
+<unknown>
+Lindenallee
+Lindenallee
+Alpenstrasse
+Alpenstrasse
+Untere Bönigstrasse
+Untere Bönigstrasse
+Untere Bönigstrasse
+Allmendstrasse
+Lindenallee
+<unknown>
+Lärchenweg
+Rütistrasse & Schulgässli
+Kupfergasse & Schulgässli
+Rütistrasse
+Rütistrasse
+Rütistrasse
+<unknown>
+Brunngasse
+Brunngasse
+Brunngasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Eyacheri
+Brunngasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Gsteigstrasse
+<unknown>
+Rugenstrasse
+Obdorfstrasse & Hüpplengasse
+Hauptstrasse & Hüpplengasse
+Strandbadweg
+<unknown> & Hagenstrasse
+<unknown> & Hauptstrasse & Bahnhofstrasse
+Bahnhofstrasse
+<unknown>
+Beundenstrasse
+Beundenstrasse
+Beundenstrasse
+Seestrasse
+<unknown> & Seestrasse
+Seestrasse
+Büeliweg
+Büeliweg
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Seestrasse
+<unknown> & Seestrasse
+Brienzstrasse
+Brienzstrasse
+Egg & Allmend
+Steini & Egg
+<unknown> & Saxetenstrasse
+Staatsstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Seestrasse
+<unknown>
+<unknown>
+<unknown> & Industriestrasse
+<unknown> & Industriestrasse
+<unknown> & Industriestrasse
+<unknown> & Industriestrasse
+<unknown> & Industriestrasse
+<unknown> & Industriestrasse
+<unknown> & Industriestrasse
+<unknown> & Industriestrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Bönigstrasse
+<unknown>
+<unknown>
+Brunnegasse & Underi Gasse
+Brunnegasse & Oberi Gasse
+Brunnegasse & Oberi Gasse
+Dorfstrasse & Chrützweg
+<unknown> & Dorfstrasse
+Dorfstrasse
+<unknown>
+<unknown>
+Wyngarteweg & Underbächiweg
+Wyngarteweg & Riedbrunneweg & Chrützweg
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Hauptstrasse
+Hertigässli
+Hertigässli
+Hertigässli
+Hertigässli
+<unknown> & Weissenaustrasse
+<unknown> & Weissenaustrasse
+Weissenaustrasse
+Weissenaustrasse
+Weissenaustrasse
+Underbächiweg & Chrützweg
+Bützigeweg
+Bützigeweg
+Oberi Gasse & Brandgasse
+<unknown> & Oberi Gasse
+<unknown> & Oberi Gasse
+Oberi Gasse & Chrützweg
+<unknown> & Alte Staatsstrasse
+<unknown>
+<unknown>
+Seestrasse
+Seestrasse
+<unknown>
+Seestrasse & Helvetiastrasse
+Seestrasse
+Oelestrasse
+Oelestrasse
+<unknown>
+Gsteigstrasse
+Gsteigstrasse
+Alpenstrasse
+Alpenstrasse
+Alpenstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Bönigstrasse
+<unknown>
+Gsteigstrasse
+<unknown> & Gsteigstrasse
+<unknown> & Gsteigstrasse
+Gsteigstrasse
+Gsteigstrasse
+<unknown> & Hauptstrasse & Hohfluhstrasse
+Brandstrasse
+Hauptstrasse & Brandstrasse
+Eyenweg
+Eyenweg
+Hauptstrasse & Schürmatta
+Hauptstrasse
+Hauptstrasse & Rebhaldenweg
+Hauptstrasse & Grubengasse
+Kreuzgasse & Untere Gasse
+<unknown> & Seestrasse
+<unknown>
+Gurbenstrasse
+Baumgarten & Helvetiastrasse
+Seestrasse
+Seestrasse
+Seestrasse
+<unknown> & Lanzenen
+Seestrasse
+Brienzstrasse
+Rugenaustrasse & Rothornstrasse
+Rugenaustrasse
+Aarmühlestrasse
+Bahnhofstrasse
+Bahnhofstrasse & Rugenparkstrasse
+Kanalpromenade
+Harderstrasse
+Harderstrasse
+Höheweg & Harderstrasse
+<unknown> & Strandbadstrasse
+Strandbadstrasse
+Strandbadstrasse
+<unknown> & Strandbadstrasse
+<unknown> & Strandbadstrasse
+Brienzstrasse
+Strandbadstrasse
+Höheweg
+Helvetiastrasse
+Helvetiastrasse
+Helvetiastrasse
+Seestrasse
+<unknown> & Weissenaustrasse
+<unknown> & Rugenparkstrasse
+Rugenparkstrasse & Rothornstrasse
+<unknown> & Rugenparkstrasse
+<unknown> & Rugenparkstrasse
+<unknown>
+<unknown>
+Rütistrasse
+Unterdorfstrasse
+Unterdorfstrasse
+Hauptstrasse
+Hauptstrasse
+Hauptstrasse
+Kesslergasse
+Kupfergasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Jungfraustrasse
+Jungfraustrasse
+Waldeggstrasse
+Rosenstrasse
+<unknown>
+<unknown> & Hauptstrasse
+<unknown>
+<unknown> & Hauptstrasse
+Steini
+<unknown>
+<unknown>
+<unknown> & Kammistrasse
+Kammistrasse
+<unknown>
+Obdorfstrasse
+Gartenstrasse
+Hohfluhstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Chrützweg
+<unknown>
+<unknown> & Underi Gasse
+Rossweg & Riedbrunneweg
+<unknown> & Rossweg
+<unknown>
+<unknown> & Dorfstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown> & Dorfstrasse
+Dorfstrasse
+Dorfstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Dorfstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Chrützweg
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Saxetenstrasse
+Moos
+Hobacher
+<unknown>
+<unknown> & Moosgasse
+<unknown> & Moosgasse
+<unknown>
+<unknown>
+Beatenbergstrasse
+Fabrikstrasse
+Dorfstrasse
+Dorfstrasse
+<unknown>
+<unknown> & Beatenbergstrasse
+Beatenbergstrasse
+Beatenbergstrasse
+Oberi Gasse & Hinderi Gasse
+Underi Gasse & Brandgasse
+Rüti
+Hobacher & Rossmaad
+Hobacher & Rüti
+Im Garten & Rossmaad
+Moos
+Feldgässli
+Feldgässli
+Feldgässli
+Kreuzimaadweg
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Hagenstrasse
+<unknown> & Hauptstrasse
+Hauptstrasse & Bachtalenweg
+Bachtalenweg
+Hauptstrasse & Bachtalenweg
+Hauptstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Rebhaldenweg
+Rebhaldenweg
+Brienzstrasse
+<unknown>
+<unknown>
+Höheweg
+Höheweg
+<unknown>
+Höheweg
+Dorfstrasse
+Dorfstrasse
+Dorfstrasse
+<unknown>
+<unknown>
+<unknown> & Rothornstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Seestrasse
+Seestrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Tschingeley
+Tschingeley
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Beatenbergstrasse
+Habkernstrasse
+Krachengässli
+<unknown> & Hintere Scheidgasse & Gartenstrasse
+<unknown>
+Fabrikstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Strandbadstrasse
+<unknown>
+<unknown>
+<unknown>
+Höheweg
+Kammistrasse
+<unknown>
+Im Moos
+Im Moos
+Im Moos
+<unknown>
+Geissgasse
+<unknown>
+<unknown>
+<unknown> & Obere Bönigstrasse
+<unknown>
+<unknown>
+<unknown>
+Höheweg
+Höheweg
+Hauptstrasse & Gässli
+Hagenstrasse & Alte Strasse
+Obdorfstrasse
+Gsteigstrasse
+Gsteigstrasse
+<unknown>
+Schürmatta
+Schürmatta
+Dammweg
+Hauptstrasse
+Gsteigstrasse
+Gsteigstrasse
+Grubengasse
+Hindere Eywald
+<unknown>
+<unknown>
+<unknown> & Brienzstrasse
+Staatsstrasse
+<unknown>
+Baumgarten
+<unknown> & Gsteigstrasse
+<unknown>
+<unknown>
+<unknown>
+Büeliweg
+<unknown>
+Alte Strasse
+<unknown>
+<unknown>
+Gsteigstrasse & Gewerbeweg
+Rebhaldenweg
+<unknown>
+<unknown> & Riedbrunneweg
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Riedbrunneweg
+<unknown>
+<unknown>
+<unknown>
+Waldeggstrasse
+<unknown>
+Dorfstrasse
+Dorfstrasse
+<unknown> & Bönigstrasse
+Bönigstrasse
+Gsteigstrasse
+Gsteigstrasse
+Gsteigstrasse
+Gsteigstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Bahnhofstrasse & Bahnhofplatz
+Bahnhofstrasse & Bahnhofplatz
+Bahnhofstrasse & Bahnhofplatz
+Bahnhofstrasse & Bahnhofplatz
+Bahnhofstrasse & Bahnhofplatz
+<unknown> & Bahnhofstrasse
+Seestrasse
+<unknown> & Seestrasse
+Brienzstrasse
+Brienzstrasse
+<unknown>
+Bürgliweg
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Dorfstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Seestrasse
+Seestrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Dorfstrasse
+<unknown>
+<unknown>
+Hauptstrasse
+<unknown> & Hauptstrasse
+<unknown> & Hauptstrasse
+Staatsstrasse
+Staatsstrasse
+Staatsstrasse
+Staatsstrasse
+Staatsstrasse
+Staatsstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Panoramaweg
+Panoramaweg
+Gsteigstrasse
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+<unknown>
+Brandstrasse
+====================
+Successfully loaded map '/cad2/ece297s/public/maps/interlaken_switzerland.streets.bin'
+Closing map

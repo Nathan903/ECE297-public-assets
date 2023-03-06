@@ -1,0 +1,40 @@
+loading
+====================
+<unknown>
+Market Street
+Field Road
+Castle Terrace
+Church Lane
+Lower Half Tree Hollow
+Deadwood
+Colt Sheds
+Casons
+Cow Path
+Wireless Station Drive
+Airport Access Road
+Sapper Way
+Red Gate
+Sandy Bay Road
+The Briars
+Bottom Woods
+Tern Drive
+The Pavement
+Airport Access Road
+Sandy Bay Ridge
+Evergreen Drive
+Unity Cottage Road
+China Lane
+Napoleon Street
+Seafront
+Constitution Hill
+Shy Road
+Seales Corner
+Commonwealth Avenue
+Airport Access Road
+Clay Gut
+Main Street
+Longwood Avenue
+Ladder Hill Road
+====================
+Successfully loaded map '/cad2/ece297s/public/maps/saint-helena.streets.bin'
+Closing map

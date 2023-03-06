@@ -1,0 +1,385 @@
+loading
+====================
+<unknown>
+Wydengässli
+Lehnweg
+Seestrasse
+Eigerstrasse
+Mittlere Strasse
+Schulhausstrasse
+Neugasse
+Untere Bönigstrasse
+Sportweg
+Freiestrasse
+Unterseen
+Wilderswil
+Wilderswil
+Bahnhofstrasse
+Weissenaustrasse
+Rothornstrasse
+Suleggstrasse
+Bernastrasse
+Pfarrweg
+Jungfraublickallee
+Bahnhofstrasse
+Gsteigstrasse
+Waldeggstrasse
+Wychelstrasse
+Unterdorfstrasse
+Oelestrasse
+Aegertenstrasse
+Kreuzackerweg
+Metzgergasse
+Klosterstrasse
+Hauptstrasse
+General-Guisan-Strasse
+Allmendstrasse
+Tenne-Kreisel
+Obere Bönigstrasse
+Mystery-Kreisel
+Bönigstrasse
+Allmendstrasse
+Brienzstrasse
+Mattenstrasse
+Geissgasse
+Strandbadstrasse
+Marktgasse
+Bahnhofstrasse
+Rugen
+Dorfstrasse
+Interlakenstrasse
+Bühlstrasse
+Aegertiweg
+Höheweg
+Schwalmerenweg
+Aegertenstrasse
+Scheidgasse
+Lanzenen
+Centralstrasse
+Jungfraustrasse
+Mittengrabenstrasse
+Spühlibachweg
+Spitalweg
+Aareckstrasse
+Viktoriastrasse
+Kanalpromenade
+Aarmühlestrasse
+Niesenstrasse
+Florastrasse
+Schlossstrasse
+Alpenstrasse
+Alpenstrasse
+Sonnenhof
+Lindenallee
+Landi-Kreisel
+Untere Bönigstrasse
+Bühlweg
+Kesslergasse
+Alte Oelestrasse
+Lindenallee
+Hauptstrasse
+Spielmatte
+Kreuzgasse
+Beatenbergstrasse
+Gartenstrasse
+Kreuzgasse
+Kirchstrasse
+Alte Staatsstrasse
+Lütschinenstrasse
+Aareweg
+Hauptstrasse
+Oberlandstrasse
+Brunnengasse
+Kirchgasse
+Waldeggstrasse
+Lochstrasse
+Lütschine
+Kupfergasse
+Friedweg
+Därligenstrasse
+Rosenstrasse
+Tellweg
+Baumgartenstrasse
+Brunngasse
+Dorfstrasse
+Mattenstrasse
+Nelkenweg
+Herziggässli
+Lindenallee
+Birkenweg
+Klostergässli
+Rütistrasse
+Gartenstrasse
+Rugenstrasse
+Wengelacher
+Wagnerenstrasse
+Feldgässli
+Obereigasse
+Grenchenstrasse
+Postgasse
+Amisbühlstrasse
+Lehngasse
+Heimwehfluhstrasse
+Lärchenweg
+Alte Unterdorfstrasse
+Hobachergässli
+Rütigässli
+Schloss
+Mühleholzstrasse
+Steindlerstrasse
+Seidenfadenstrasse
+Hohmüedig
+Mittlere Strasse
+Bockstorweg
+Juheigässli
+Feldweg
+Blumenstrasse
+Wellenacher
+Vorholzstrasse
+Freihofstrasse
+Bohnerenstrasse
+Breitengässli
+Am Lauener
+Brawandsteg
+Bühl
+Aenderbergstrasse
+Beatenbergstrasse
+Gsteigstrasse
+Dickiweg
+Lombachzaunweg
+Gummenstrasse
+Dammweg
+Im Moos
+Unspunnenstrasse
+Blattacherweg
+Schulgässli
+Kirchgasse
+Mühlenenstrasse
+Leima
+Büelgässli
+Hauptstrasse
+Sydachstrasse
+Aegertzaunstrasse
+Kreuzimaadweg
+Aegertzaunweg
+Scheurenweg
+Feldgässli
+Sydachweg
+Unterdorfweg
+Dorfmattenstrasse
+Unter der Fuhre
+Unionsgasse
+Mühlenenfeldweg
+Staatsstrasse
+Hubelweg
+Sandweg
+Kreuzgasse
+Kupfergasse
+Steiniweg
+Talweg
+Oberdorfweg
+Oberdorfstrasse
+Wengelacherweg
+Mittelweg
+Allmendstrasse
+Bönigstrasse
+Wydistrasse
+Saxetbachweg
+Saxetenstrasse
+Grenchenweg
+Senggigässli
+Kleiner Rugen
+Baumgarten
+Oberdorf
+Hintere Scheidgasse
+Guetehusestrasse
+Im Muri
+Stadtfeldstrasse
+Am Quai
+Campingstrasse
+Schorreweg
+Wilderswil
+Fabrikstrasse
+Beundenstrasse
+Hindere Eywald
+Hauptstrasse
+Hauptstrasse
+Bürgliweg
+Kappelistrasse
+Beundenstrasse
+Beundenstrasse
+Grubengasse
+Aarestrasse
+Unterdorf
+Seestrasse
+Obere Stockteile
+Untere Stockteile
+Riedweg
+Harderstrasse
+Steini
+Wychel
+Gasse
+Mühlegässli
+Unter den Häusern
+Rugenaustrasse
+Habkerngässli
+Blumenstrasse
+Blumenstrasse
+Untere Goldey
+Untere Goldey
+Obere Goldey
+Jungfraustrasse
+Untere Gasse
+Kreisel Lindenallee
+Aldi-Kreisel
+Hertigässli
+Parkstrasse
+Beim Brunnen
+Raeuberegge
+Spirenwaldstrasse
+Lütschine
+Burgweg
+Hagenstrasse
+Brandstrasse
+Untere Bönigstrasse
+Kammistrasse
+Goldswil-Viadukt
+Lütscherenstrasse
+Tschingeleystrasse
+Gurbenstrasse
+Wyden
+Matteweg
+Am Rugen
+Seestrasse
+In den Gärten
+Parkstrasse
+Halten
+Eyenweg
+Dorfgasse
+Güntschenacherweg
+Talstrasse
+Bödeliweg
+Rugenparkstrasse
+Eyenweg
+Buechwaldgasse
+Hobachergasse
+Walmweg
+Stapfackerweg
+Bohnerenstrasse
+Breite
+Chrützacher
+Harderstrasse
+Kirchgasse
+Obere Gasse
+Renggliweg
+Dorfmattenstrasse
+Dahlienweg
+Eyacheri
+Fliederweg
+Flurweg
+Kirchgässli
+Reginaweg
+Rosenweg
+Adlerweg
+Alpenstrasse
+Alter Kirchweg
+Beundengasse
+Brunngasse
+Chapelligässli
+Endweg
+Feldweg
+Frutigergässli
+Leischenstrasse
+Lindenweg
+Lischmaadweg
+Lütschinenstrasse
+Panoramaweg
+Postgässli
+Rosenweg
+Rossacherweg
+Rothornstrasse
+Schulhausgasse
+Oberdorfgasse
+Wittrigässli
+Hauptstrasse
+Fillacherweg
+Zügliweg
+Nordstrasse
+Blumenstrasse
+Chrisdöriweg
+Erlenweg
+Eyweg
+Friedheim
+Im Eggen
+Neuenstrasse
+Niesenweg
+Renggliweg
+Wydiweg
+Obere Bönigstrasse
+Rosenstrasse
+Schulhausstrasse
+Gassenweg
+Bellevuestrasse
+Habkernstrasse
+Hohfluhstrasse
+Gassenweg
+Auf dem Graben
+Aenet dem Lombach
+Eichzun
+Rosswaldstrasse
+Obdorfstrasse
+Birkenweg
+Schulhausweg
+Gartenstrasse
+Alte Strasse
+Rüti
+Lengenmattenweg
+Kreuzlistrasse
+Schulgässli
+Hüpplengasse
+Strandbadweg
+Bahnhofstrasse
+Büeliweg
+Egg
+Allmend
+Industriestrasse
+Brunnegasse
+Wyngarteweg
+Underbächiweg
+Bützigeweg
+Oberi Gasse
+Helvetiastrasse
+Hohfluhstrasse
+Rossweg
+Riedbrunneweg
+Chrützweg
+Moosgasse
+Höhenrain
+Oberi Gasse
+Hinderi Gasse
+Underi Gasse
+Hobacher
+Im Garten
+Lindi
+Moos
+Rossmaad
+Rüti
+Bachtalenweg
+Rebhaldenweg
+Tschingeley
+Krachengässli
+Hintere Scheidgasse
+Gartenstrasse
+Rothornstrasse
+Brandgasse
+Riedgasse
+Schürmatta
+Gässli
+Dammweg
+Gewerbeweg
+Bahnhofplatz
+BUS
+Mühlenenstrasse
+====================
+Successfully loaded map '/cad2/ece297s/public/maps/interlaken_switzerland.streets.bin'
+Closing map

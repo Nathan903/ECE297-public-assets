@@ -1,0 +1,1511 @@
+====================
+fuel  |  Migrol
+	 opening_hours  |  24/7
+	 amenity  |  fuel
+	 name  |  Migrol
+fuel  |  Avia
+	 operator  |  Avia
+	 brand:wikipedia  |  de:Avia International
+	 brand:wikidata  |  Q300147
+	 amenity  |  fuel
+	 brand  |  Avia
+	 name  |  Avia
+fast_food  |  McDonald's
+	 smoking  |  no
+	 operator  |  McDonald's
+	 brand:wikipedia  |  en:McDonald's
+	 takeaway  |  yes
+	 cuisine  |  burger
+	 brand:wikidata  |  Q38076
+	 amenity  |  fast_food
+	 brand  |  McDonald's
+	 name  |  McDonald's
+library  |  Bödeli Bibliothek
+	 amenity  |  library
+	 name  |  Bödeli Bibliothek
+cinema  |  Cine Rex
+	 website  |  http://www.kino-interlaken.ch/
+	 wheelchair  |  limited
+	 amenity  |  cinema
+	 name  |  Cine Rex
+parking  |  Einkaufszentrum
+	 layer  |  -1
+	 parking  |  underground
+	 fee  |  yes
+	 amenity  |  parking
+	 name  |  Einkaufszentrum
+restaurant  |  Bären Grill-Stübli
+	 amenity  |  restaurant
+	 name  |  Bären Grill-Stübli
+ferry_terminal  |  Bönigen
+	 ferry  |  yes
+	 uic_ref  |  8508371
+	 uic_name  |  Bönigen
+	 public_transport  |  stop_position
+	 ele  |  568
+	 operator  |  BLS-brs
+	 wheelchair  |  limited
+	 amenity  |  ferry_terminal
+	 name  |  Bönigen
+ferry_terminal  |  Ringgenberg (See)
+	 ferry  |  yes
+	 uic_ref  |  8508372
+	 uic_name  |  Ringgenberg (See)
+	 public_transport  |  stop_position
+	 network  |  Brienzersee
+	 ele  |  596
+	 operator  |  BLS-brs
+	 amenity  |  ferry_terminal
+	 name  |  Ringgenberg (See)
+parking_entrance  |  Migros
+	 surface  |  concrete
+	 maxheight  |  2.25
+	 lit  |  yes
+	 capacity:disabled  |  yes
+	 parking  |  underground
+	 fee  |  yes
+	 access  |  yes
+	 wheelchair  |  yes
+	 amenity  |  parking_entrance
+	 name  |  Migros
+fuel  |  Ri
+	 wheelchair  |  yes
+	 amenity  |  fuel
+	 name  |  Ri
+drinking_water  |  Oele
+	 fee  |  no
+	 operator  |  Gemeinde Matten
+	 amenity  |  drinking_water
+	 name  |  Oele
+restaurant  |  Laterne
+	 amenity  |  restaurant
+	 name  |  Laterne
+car_sharing  |  Interlaken West Bahnhof
+	 operator:wikipedia  |  de:Mobility Carsharing
+	 mobility:station_id  |  1073
+	 capacity  |  3
+	 addr:country  |  CH
+	 operator:wikidata  |  Q692400
+	 website  |  https://www.mobility.ch/
+	 addr:city  |  Interlaken
+	 operator  |  Mobility Genossenschaft
+	 opening_hours  |  24/7
+	 wheelchair  |  yes
+	 amenity  |  car_sharing
+	 addr:postcode  |  3800
+	 name  |  Interlaken West Bahnhof
+car_sharing  |  Interlaken Ost Bahnhof
+	 operator:wikipedia  |  de:Mobility Carsharing
+	 mobility:station_id  |  1074
+	 capacity  |  2
+	 addr:country  |  CH
+	 operator:wikidata  |  Q692400
+	 website  |  https://www.mobility.ch/
+	 addr:city  |  Interlaken
+	 operator  |  Mobility
+	 opening_hours  |  24/7
+	 wheelchair  |  yes
+	 amenity  |  car_sharing
+	 addr:postcode  |  3800
+	 name  |  Interlaken Ost Bahnhof
+fuel  |  Moveri
+	 payment:v_pay  |  yes
+	 payment:postfinance_card  |  yes
+	 name  |  Moveri
+	 amenity  |  fuel
+	 wheelchair  |  yes
+	 payment:visa  |  yes
+	 payment:cash  |  yes
+	 currency:CHF  |  yes
+	 payment:maestro  |  yes
+	 payment:mastercard  |  yes
+	 payment:american_express  |  yes
+	 currency:EUR  |  yes
+	 payment:coins  |  no
+	 fuel:diesel  |  yes
+	 fuel:octane_95  |  yes
+	 payment:contactless  |  yes
+ferry_terminal  |  Neuhaus (Unterseen) (See)
+	 cargo  |  passengers,bicycle
+	 ferry  |  yes
+	 uic_ref  |  8507158
+	 uic_name  |  Neuhaus (Unterseen) (See)
+	 public_transport  |  stop_position
+	 operator  |  BLS-ths
+	 wheelchair  |  limited
+	 amenity  |  ferry_terminal
+	 name  |  Neuhaus (Unterseen) (See)
+parking  |  Parkhaus Zentrum Interlaken
+	 capacity  |  115
+	 capacity:disabled  |  3
+	 parking  |  underground
+	 fee  |  yes
+	 note  |  115 public parking lots
+	 website  |  https://www.pzi.ch/
+	 operator  |  PZI AG
+	 amenity  |  parking
+	 name  |  Parkhaus Zentrum Interlaken
+place_of_worship  |  EMK Interlaken
+	 religion  |  christian
+	 denomination  |  Evangelisch-methodistische_Kirche_(EMK)
+	 amenity  |  place_of_worship
+	 name  |  EMK Interlaken
+police  |  Wache Interlaken
+	 operator:wikidata  |  Q1728095
+	 operator  |  Kantonspolizei Bern
+	 amenity  |  police
+	 name  |  Wache Interlaken
+telephone  |  Swisscom
+	 amenity  |  telephone
+	 name  |  Swisscom
+fast_food  |  Maestro Grill
+	 cuisine  |  burger
+	 amenity  |  fast_food
+	 name  |  Maestro Grill
+bank  |  Raiffeisenbank Jungfrau
+	 operator  |  Raiffeisenbank Jungfrau
+	 amenity  |  bank
+	 atm  |  yes
+	 name  |  Raiffeisenbank Jungfrau
+fuel  |  Shell
+	 fuel:octane_95  |  yes
+	 fuel:diesel  |  yes
+	 operator  |  Shell
+	 fuel:octane_100  |  yes
+	 brand:wikipedia  |  en:Royal Dutch Shell
+	 brand:wikidata  |  Q110716465
+	 wheelchair  |  limited
+	 amenity  |  fuel
+	 brand  |  Shell
+	 name  |  Shell
+fuel  |  Migrol
+	 fuel:octane_95  |  yes
+	 fuel:diesel  |  yes
+	 brand:wikipedia  |  de:Migrol
+	 brand:wikidata  |  Q1747771
+	 wheelchair  |  limited
+	 amenity  |  fuel
+	 brand  |  Migrol
+	 name  |  Migrol
+bbq  |  Feuerstelle Wilderswil - Chammeri
+	 tourism  |  picnic_site
+	 fireplace  |  yes
+	 amenity  |  bbq
+	 name  |  Feuerstelle Wilderswil - Chammeri
+ferry_terminal  |  Interlaken West (See)
+	 cargo  |  passengers;bicycle
+	 ferry  |  yes
+	 uic_ref  |  8507169
+	 uic_name  |  Interlaken West (See)
+	 public_transport  |  stop_position
+	 ele  |  564
+	 operator  |  BLS-ths
+	 wheelchair  |  limited
+	 amenity  |  ferry_terminal
+	 name  |  Interlaken West (See)
+fuel  |  Agrola
+	 brand:wikipedia  |  de:Agrola
+	 brand:wikidata  |  Q397351
+	 amenity  |  fuel
+	 brand  |  Agrola
+	 name  |  Agrola
+restaurant  |  Bamboo
+	 addr:country  |  CH
+	 addr:street  |  Untere Bönigstrasse
+	 addr:city  |  Interlaken
+	 website  |  http://www.bamboo-interlaken.com/
+	 cuisine  |  asian
+	 opening_hours  |  11:00-14:30,17:00-23:00
+	 amenity  |  restaurant
+	 addr:postcode  |  3800
+	 addr:housenumber  |  4
+	 phone  |  +41 33 821 19 61
+	 name  |  Bamboo
+post_box  |  Post
+	 amenity  |  post_box
+	 name  |  Post
+pharmacy  |  Bahnhof Apotheke
+	 healthcare  |  pharmacy
+	 oper  |  TopPharm
+	 check_date  |  2022-11-13
+	 website  |  http://www.interlaken.apotheke.ch/
+	 opening_hours  |  Mo-Fr 07:30-18:30; Sa 07:30-17:00
+	 wheelchair  |  yes
+	 amenity  |  pharmacy
+	 name  |  Bahnhof Apotheke
+fuel  |  Migrol
+	 fuel:octane_95  |  yes
+	 fuel:diesel  |  yes
+	 operator  |  Migrol
+	 brand:wikipedia  |  de:Migrol
+	 brand:wikidata  |  Q1747771
+	 fuel:octane_98  |  yes
+	 amenity  |  fuel
+	 brand  |  Migrol
+	 name  |  Migrol
+car_wash  |  Oeltrans
+	 self_service  |  yes
+	 automated  |  no
+	 amenity  |  car_wash
+	 name  |  Oeltrans
+fuel  |  Ruedi Russel
+	 self_service  |  yes
+	 fuel:octane_95  |  yes
+	 fuel:diesel  |  yes
+	 operator  |  Ruedi Russel
+	 amenity  |  fuel
+	 name  |  Ruedi Russel
+car_rental  |  Europcar
+	 operator  |  Europcar
+	 brand:wikipedia  |  en:Europcar
+	 brand:wikidata  |  Q1376256
+	 amenity  |  car_rental
+	 brand  |  Europcar
+	 name  |  Europcar
+fuel  |  Oeltrans
+	 fuel:octane_95  |  yes
+	 fuel:diesel  |  yes
+	 operator  |  Oeltrans
+	 fuel:octane_98  |  yes
+	 wheelchair  |  yes
+	 amenity  |  fuel
+	 brand  |  Oeltrans
+	 name  |  Oeltrans
+fuel  |  Agrola
+	 fuel:diesel  |  yes
+	 operator  |  Agrola
+	 brand:wikipedia  |  de:Agrola
+	 brand:wikidata  |  Q397351
+	 fuel:octane_95  |  yes
+	 opening_hours  |  24/7
+	 fuel:octane_98  |  yes
+	 wheelchair  |  limited
+	 amenity  |  fuel
+	 brand  |  Agrola
+	 name  |  Agrola
+fuel  |  Flamol
+	 compressed_air  |  yes
+	 fuel:octane_95  |  yes
+	 fuel:diesel  |  yes
+	 operator  |  Flamol
+	 wheelchair  |  yes
+	 amenity  |  fuel
+	 name  |  Flamol
+post_box  |  Touristinfo Ringgenberg
+	 information  |  office
+	 tourism  |  information
+	 operator  |  Interlaken Tourismus
+	 amenity  |  post_box
+	 name  |  Touristinfo Ringgenberg
+fuel  |  Oeltrans
+	 compressed_air  |  yes
+	 operator  |  Oeltrans
+	 amenity  |  fuel
+	 name  |  Oeltrans
+bank  |  Raiffeisen
+	 opening_hours  |  Mo-Fr 09:00-12:00
+	 amenity  |  bank
+	 atm  |  yes
+	 name  |  Raiffeisen
+ferry_terminal  |  Interlaken Ost (See)
+	 ferry  |  yes
+	 public_transport  |  stop_position
+	 ele  |  567
+	 operator  |  BLS-brs
+	 wheelchair  |  limited
+	 amenity  |  ferry_terminal
+	 name  |  Interlaken Ost (See)
+restaurant  |  Hooters
+	 website  |  http://www.hooters-interlaken.ch/
+	 brand:wikipedia  |  en:Hooters
+	 cuisine  |  burger
+	 brand:wikidata  |  Q1025921
+	 wheelchair  |  limited
+	 amenity  |  restaurant
+	 brand  |  Hooters
+	 name  |  Hooters
+ferry_terminal  |  Därligen (See)
+	 ferry  |  yes
+	 uic_ref  |  8507168
+	 uic_name  |  Därligen (See)
+	 public_transport  |  stop_position
+	 ele  |  562
+	 operator  |  BLS-ths
+	 wheelchair  |  limited
+	 amenity  |  ferry_terminal
+	 name  |  Därligen (See)
+ferry_terminal  |  Goldswil (See)
+	 uic_name  |  Goldswil (See)
+	 ele  |  566
+	 uic_ref  |  8508377
+	 fixme  |  not connected to any ferry routes and not connected to any road or footpath on land
+	 operator  |  BLS-brs
+	 amenity  |  ferry_terminal
+	 name  |  Goldswil (See)
+cafe  |  Café Spettacolo
+	 smoking  |  no
+	 wheelchair  |  yes
+	 amenity  |  cafe
+	 name  |  Café Spettacolo
+taxi  |  Taxistand West
+	 amenity  |  taxi
+	 name  |  Taxistand West
+restaurant  |  Hirschen
+	 tourism  |  hotel
+	 amenity  |  restaurant
+	 name  |  Hirschen
+fuel  |  Oeltrans
+	 fuel:octane_95  |  yes
+	 fuel:diesel  |  yes
+	 operator  |  Oeltrans
+	 fuel:octane_98  |  yes
+	 wheelchair  |  yes
+	 amenity  |  fuel
+	 name  |  Oeltrans
+fuel  |  Avia
+	 operator  |  Avia
+	 brand:wikipedia  |  de:Avia International
+	 brand:wikidata  |  Q300147
+	 amenity  |  fuel
+	 brand  |  Avia
+	 name  |  Avia
+parking  |  Bärenparking Interlaken AG
+	 surface  |  asphalt
+	 addr:street  |  Rosenstrasse
+	 addr:city  |  Interlaken
+	 covered  |  yes
+	 lit  |  yes
+	 layer  |  -1
+	 parking  |  underground
+	 fee  |  yes
+	 access  |  yes
+	 amenity  |  parking
+	 addr:postcode  |  3800
+	 addr:housenumber  |  29
+	 name  |  Bärenparking Interlaken AG
+restaurant  |  Strämi Beizli
+	 opening_hours  |  2022 We-Su 12:00-18:00
+	 amenity  |  restaurant
+	 name  |  Strämi Beizli
+nightclub  |  HighLife
+	 amenity  |  nightclub
+	 name  |  HighLife
+ice_cream  |  Azzurra
+	 opening_hours  |  Mo-Sa 12:00-22:00; Su 12:00-20:00
+	 amenity  |  ice_cream
+	 name  |  Azzurra
+bar  |  Restaurant 3a
+	 toilets:wheelchair  |  yes
+	 food  |  yes
+	 wheelchair  |  yes
+	 amenity  |  bar
+	 name  |  Restaurant 3a
+parking_entrance  |  Stedtlizentrum
+	 level  |  -1
+	 addr:country  |  CH
+	 addr:street  |  Hauptstrasse
+	 addr:city  |  Unterseen
+	 parking  |  underground
+	 amenity  |  parking_entrance
+	 addr:postcode  |  3800
+	 addr:housenumber  |  11
+	 name  |  Stedtlizentrum
+parking_entrance  |  Stedtlizentrum
+	 level  |  -1
+	 parking  |  underground
+	 amenity  |  parking_entrance
+	 name  |  Stedtlizentrum
+restaurant  |  Art Pizza
+	 amenity  |  restaurant
+	 name  |  Art Pizza
+pharmacy  |  H. Busse
+	 amenity  |  pharmacy
+	 name  |  H. Busse
+post_office  |  Post Unterseen
+	 amenity  |  post_office
+	 name  |  Post Unterseen
+parking  |  Stedtlizentrum
+	 parking  |  underground
+	 fee  |  yes
+	 access  |  yes
+	 amenity  |  parking
+	 name  |  Stedtlizentrum
+restaurant  |  Spice India
+	 website  |  http://www.city-oberland.ch/de/restaurants-bars/spice-india.html
+	 cuisine  |  indian
+	 amenity  |  restaurant
+	 name:en  |  Spice India
+	 name  |  Spice India
+fuel  |  Oeltrans
+	 fuel:octane_95  |  yes
+	 fuel:diesel  |  yes
+	 operator  |  Oeltrans
+	 fuel:octane_98  |  yes
+	 wheelchair  |  yes
+	 amenity  |  fuel
+	 brand  |  Oeltrans
+	 name  |  Oeltrans
+ferry_terminal  |  Ländte 3
+	 note  |  there are no regular ferry routes from this terminal, they're only used for parking ships
+	 wheelchair  |  yes
+	 amenity  |  ferry_terminal
+	 name  |  Ländte 3
+ferry_terminal  |  Ländte 4
+	 note  |  there are no regular ferry routes from this terminal, they're only used for parking ships
+	 wheelchair  |  yes
+	 amenity  |  ferry_terminal
+	 name  |  Ländte 4
+place_of_worship  |  BewegungPlus
+	 religion  |  christian
+	 denomination  |  Evangelische_Freikirche
+	 amenity  |  place_of_worship
+	 name  |  BewegungPlus
+restaurant  |  Coop Restaurant
+	 toilets:access  |  customers
+	 changing_table:description  |  Ask for key at the cashier.
+	 name  |  Coop Restaurant
+	 brand  |  Coop Restaurant
+	 changing_table  |  yes
+	 amenity  |  restaurant
+	 changing_table:location  |  unisex_toilet
+	 wheelchair  |  yes
+	 toilets:wheelchair:description  |  Ask for key at the cashier.
+	 opening_hours  |  Mo-Th 08:00-18:30; Fr 08:00-20:00; Sa 08:00-17:00; Su 09:00-17:00
+	 toilets  |  yes
+	 centralkey  |  no
+	 brand:wikidata  |  Q432564
+	 brand:wikipedia  |  de:Coop (Schweiz)
+	 smoking  |  no
+	 cuisine  |  german
+	 operator  |  Coop
+	 toilets:wheelchair  |  designated
+restaurant  |  Migros Restaurant
+	 outdoor_seating  |  yes
+	 level  |  0
+	 brand:wikipedia  |  de:Migros
+	 cuisine  |  international
+	 brand:wikidata  |  Q680727
+	 opening_hours  |  Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 08:00-18:00
+	 wheelchair  |  yes
+	 amenity  |  restaurant
+	 brand  |  Migros Restaurant
+	 name  |  Migros Restaurant
+restaurant  |  Bruno's Pizza
+	 cuisine  |  kebab;pizza
+	 amenity  |  restaurant
+	 name  |  Bruno's Pizza
+cafe  |  Per Bacco
+	 email  |  perbacco@westend-interlaken.ch
+	 website  |  http://www.westend-interlaken.ch
+	 operator  |  Paolo Feci
+	 fax  |  +41 33 822 97 93
+	 opening_hours  |  Mo-Sa 09:00-01:00
+	 amenity  |  cafe
+	 phone  |  +41 33 822 97 92
+	 name  |  Per Bacco
+restaurant  |  West End
+	 website  |  http://www.westend-interlaken.ch
+	 email  |  info@westend-interlaken.ch
+	 cuisine  |  italian
+	 operator  |  Paolo Feci
+	 fax  |  +41 33 822 97 93
+	 opening_hours  |  Mo-Sa 18:00-23:30
+	 amenity  |  restaurant
+	 phone  |  +41 33 822 17 44
+	 name  |  West End
+ferry_terminal  |  Ländte 1 / Ländte 2
+	 note  |  there are no regular ferry routes from this terminal, they're only used for parking ships
+	 wheelchair  |  limited
+	 amenity  |  ferry_terminal
+	 name  |  Ländte 1 / Ländte 2
+veterinary  |  Maiezyt
+	 opening_hours  |  "Termin nach Vereinbarung"
+	 amenity  |  veterinary
+	 name  |  Maiezyt
+restaurant  |  Des Alpes
+	 amenity  |  restaurant
+	 name  |  Des Alpes
+restaurant  |  Regina
+	 takeaway  |  yes
+	 cuisine  |  asian
+	 amenity  |  restaurant
+	 name  |  Regina
+restaurant  |  PizPaz
+	 name:de  |  PizPaz
+	 cuisine  |  italian_pizza
+	 amenity  |  restaurant
+	 name  |  PizPaz
+restaurant  |  Luegibrüggli
+	 reservation  |  yes
+	 payment:cards  |  yes
+	 name  |  Luegibrüggli
+	 phone  |  +41 33 822 88 22
+	 amenity  |  restaurant
+	 wheelchair  |  no
+	 payment:cash  |  yes
+	 opening_hours  |  Th-Mo 09:00-23:00
+	 diet:vegetarian  |  yes
+	 website  |  https://www.luegibrueggli.ch/
+	 fax  |  +41 33 822 88 23
+	 cuisine  |  regional
+	 outdoor_seating  |  yes
+	 capacity  |  125
+	 level  |  0
+clock  |  Blumenuhr
+	 visibility  |  street
+	 support  |  ground
+	 display  |  analog
+	 check_date  |  2022-08-01
+	 tourism  |  attraction
+	 amenity  |  clock
+	 name  |  Blumenuhr
+nightclub  |  Johnny's
+	 email  |  info@johnnys-interlaken.ch
+	 website  |  http://www.johnnys-interlaken.ch
+	 opening_hours  |  Tu-Th 22:00-03:00, Fr-Sa 22:00-05:00
+	 amenity  |  nightclub
+	 name  |  Johnny's
+pharmacy  |  Portmann
+	 dispensing  |  yes
+	 fax  |  +41 33 828 34 30
+	 opening_hours  |  Mo-Fr 07:30-18:30; Sa 07:30-17:00
+	 amenity  |  pharmacy
+	 phone  |  +41 33 828 34 34
+	 name  |  Portmann
+kindergarten  |  Kindertagesstätte Alpenstrasse
+	 was:operator  |  Frauenverein Interlaken
+	 max_age  |  Schuleintritt
+	 alt_name  |  Kita Alpenstrasse
+	 capacity  |  12
+	 email  |  info@kita-alpenstrasse.ch
+	 website  |  https://www.kita-alpenstrasse.ch/
+	 min_age  |  3 Monate
+	 operator  |  Kita Alpenstrasse GmbH
+	 opening_hours  |  Mo-Fr 07:00-18:30
+	 amenity  |  kindergarten
+	 operator:type  |  private
+	 phone  |  +41 33 821 29 29
+	 name  |  Kindertagesstätte Alpenstrasse
+kindergarten  |  Kita Kunterbunt
+	 social_facility:for  |  child
+	 operator:type  |  private
+	 min_age  |  4 months
+	 capacity  |  22
+	 name  |  Kita Kunterbunt
+	 addr:postcode  |  3800
+	 opening_hours  |  Mo-Fr 06:45-18:45
+	 amenity  |  kindergarten
+	 addr:city  |  Matten bei Interlaken
+	 alt_name  |  Kindertagesstätte Kunterbunt
+	 operator  |  Verein Kita Kunterbung
+	 contact:phone  |  +41 33 822 04 06
+	 website  |  https://www.krippe-kunterbunt.ch/
+	 addr:street  |  Klostergässli
+	 contact:email  |  mail@krippe-kunterbunt.ch
+	 addr:housenumber  |  3
+	 contact:website  |  https://www.krippe-kunterbunt.ch/kontakt.php
+	 addr:country  |  CH
+place_of_worship  |  Jehovas Zeugen
+	 religion  |  christian
+	 website  |  https://www.jw.org/
+	 denomination  |  jehovahs_witness
+	 opening_hours  |  Th 19:30-21:30, Sa 19:00-21:00
+	 amenity  |  place_of_worship
+	 name  |  Jehovas Zeugen
+restaurant  |  Jungfrau Park
+	 addr:street  |  Obere Bönigstrasse
+	 amenity  |  restaurant
+	 addr:housenumber  |  100
+	 name  |  Jungfrau Park
+fast_food  |  Mr.Grill
+	 diet:vegan  |  yes
+	 check_date:opening_hours  |  2022-10-23
+	 diet:vegetarian  |  yes
+	 addr:street  |  Bahnhofstrasse
+	 addr:city  |  Interlaken
+	 opening_hours:signed  |  no
+	 cuisine  |  burger
+	 wheelchair  |  yes
+	 amenity  |  fast_food
+	 addr:postcode  |  3800
+	 name  |  Mr.Grill
+pharmacy  |  Bichsel
+	 dispensing  |  yes
+	 healthcare  |  pharmacy
+	 email  |  apotheke@bichsel.ch
+	 website  |  http://www.bichsel.ch
+	 fax  |  +41 33 827 60 10
+	 opening_hours  |  Mo-Fr 07:30-18:30; Sa 07:30-17:00
+	 amenity  |  pharmacy
+	 phone  |  +41 33 827 60 00
+	 name  |  Bichsel
+restaurant  |  Little Thai
+	 cuisine  |  asian
+	 opening_hours  |  We-Su 11:00-14:00,17:00-22:00; Mo,Th closed
+	 amenity  |  restaurant
+	 name  |  Little Thai
+restaurant  |  Steakhouse Steinbock
+	 addr:city  |  Gsteigwiler
+	 website  |  http://www.steakhouse-steinbock.com/
+	 cuisine  |  burger_steak
+	 opening_hours  |  Tu-Fr 11:45-13:45; 17:30-22:00; Sa 17:30-22:00; Su 11:45-22:00
+	 amenity  |  restaurant
+	 addr:postcode  |  3814
+	 phone  |  +41 33 823 30 01
+	 name  |  Steakhouse Steinbock
+parking_entrance  |  Einstellhalle Auditorium
+	 parking  |  underground
+	 fee  |  yes
+	 access  |  permissive
+	 amenity  |  parking_entrance
+	 name  |  Einstellhalle Auditorium
+pub  |  Buddy's Pub
+	 internet_access  |  wlan
+	 amenity  |  pub
+	 name  |  Buddy's Pub
+bar  |  Beach Bar
+	 amenity  |  bar
+	 name  |  Beach Bar
+atm  |  Postfinance
+	 alt_name  |  Postomat
+	 check_date  |  2021-12-12
+	 amenity  |  atm
+	 name  |  Postfinance
+pub  |  Helvetia Sportbar
+	 sport  |  darts;billiards
+	 internet_access  |  wlan
+	 wheelchair  |  limited
+	 amenity  |  pub
+	 name  |  Helvetia Sportbar
+bank  |  Raiffeisenbank
+	 contact:email  |  jungfrau@raiffeisen.ch
+	 addr:street  |  Hauptstrasse
+	 contact:phone  |  +41 33 828 82 88
+	 addr:city  |  Bönigen
+	 opening_hours  |  Mo-Fr 14:00-17:00
+	 amenity  |  bank
+	 atm  |  yes
+	 addr:postcode  |  3806
+	 addr:housenumber  |  62
+	 name  |  Raiffeisenbank
+pub  |  The 3 Tells Irish Pub
+	 addr:country  |  CH
+	 email  |  info@the3tells.com
+	 website  |  http://www.the3tells.com/
+	 addr:street  |  Hauptstrasse
+	 smoking  |  no
+	 addr:city  |  Matten
+	 operator  |  Sandra und Brad Bolland-Sherpheard
+	 opening_hours  |  15:00-00:30
+	 amenity  |  pub
+	 addr:postcode  |  3800
+	 addr:housenumber  |  49
+	 phone  |  +41 33 822 18 25
+	 name  |  The 3 Tells Irish Pub
+parking_entrance  |  Victoria Jungfrau
+	 lit  |  yes
+	 parking  |  underground
+	 fee  |  yes
+	 opening_hours  |  24/7
+	 access  |  yes
+	 amenity  |  parking_entrance
+	 supervised  |  yes
+	 name  |  Victoria Jungfrau
+casino  |  Casino Interlaken
+	 email  |  info@casino-interlaken.ch
+	 wikidata  |  Q257727
+	 website  |  http://www.casino-interlaken.ch/
+	 fax  |  +41 33 827 62 18
+	 opening_hours  |  Su-Th 12:00-02:00, Fr-Sa 12:00-03:00
+	 amenity  |  casino
+	 phone  |  +41 33 827 62 10
+	 name  |  Casino Interlaken
+pub  |  Hexenbar
+	 amenity  |  pub
+	 name  |  Hexenbar
+restaurant  |  Asia
+	 cuisine  |  asian
+	 opening_hours  |  Mo-Su 11:00-14:30, 17:30-23:00
+	 amenity  |  restaurant
+	 name  |  Asia
+restaurant  |  Bären
+	 alt_name  |  Restaurant Bären
+	 contact:website  |  http://www.baeren-unterseen.ch/de/Kontakt
+	 contact:phone  |  +41 33 822 75 26
+	 contact:email  |  restaurant@baeren-unterseen.ch
+	 opening_hours  |  Mo off; Tu-Th 16:30-23:30; Fr-Sa 10:00-00:30; Su 10:00-23:30
+	 amenity  |  restaurant
+	 name  |  Bären
+fire_station  |  Feuerwehrstützpunkt Bödeli Interlaken
+	 contact:fax  |  +41 33 8234018
+	 contact:email  |  feuerwehr-boedeli@interlaken.ch
+	 website  |  https://www.feuerwehr-boedeli.ch/
+	 contact:emergency  |  112
+	 contact:phone  |  +41 33 8231400
+	 operator  |  Feuerwehr Bödeli
+	 amenity  |  fire_station
+	 source  |  survey and website
+	 name  |  Feuerwehrstützpunkt Bödeli Interlaken
+cafe  |  Bistro Pistache
+	 email  |  info@pistache-bistro.ch
+	 website  |  https://www.pistache-bistro.ch/
+	 opening_hours  |  Mo-Th 13:30-18:00; Fr-Su 11:00-18:00
+	 amenity  |  cafe
+	 mobile  |  ‭+41798669238‬
+	 name  |  Bistro Pistache
+townhall  |  Gemeindeverwaltung Bönigen
+	 addr:street  |  Interlakenstrasse
+	 addr:city  |  Bönigen
+	 email  |  info@boenigen.ch
+	 website  |  https://www.boenigen.ch/
+	 opening_hours  |  Mo 09:00-12:00,14:00-18:00; Tu-Fr 09:00-12:00,14:00-17:00
+	 amenity  |  townhall
+	 addr:postcode  |  3806
+	 addr:housenumber  |  6
+	 phone  |  +41 33 826 10 00
+	 name  |  Gemeindeverwaltung Bönigen
+restaurant  |  Wirtshaus zum Bären
+	 addr:street  |  Hauptstrasse
+	 addr:city  |  Bönigen
+	 website  |  http://www.bären-bönigen.com/
+	 cuisine  |  regional
+	 opening_hours  |  Tu-Fr 08:30-23:00; Sa 10:00-23:00; Su 10:00-22:00
+	 amenity  |  restaurant
+	 addr:postcode  |  3806
+	 addr:housenumber  |  45
+	 phone  |  +41 33 822 19 51
+	 name  |  Wirtshaus zum Bären
+fuel  |  Ruedi Rüssel
+	 addr:street  |  Interlakenstrasse
+	 addr:city  |  Bönigen
+	 wheelchair  |  yes
+	 amenity  |  fuel
+	 addr:postcode  |  3806
+	 addr:housenumber  |  25
+	 name  |  Ruedi Rüssel
+recycling  |  Recyclingcontainer
+	 recycling:glass  |  yes
+	 recycling:plastic_bottles  |  yes
+	 recycling_type  |  container
+	 recycling:glass_bottles  |  yes
+	 recycling:cans  |  yes
+	 amenity  |  recycling
+	 name  |  Recyclingcontainer
+restaurant  |  Simply Sushi
+	 website  |  http://www.simplysushi.ch
+	 cuisine  |  sushi
+	 amenity  |  restaurant
+	 name  |  Simply Sushi
+fast_food  |  Lombach Bistro
+	 website  |  https://camping-alpenblick.ch/131/bistro-lombach
+	 amenity  |  fast_food
+	 name  |  Lombach Bistro
+bar  |  Crazy Mary Pub
+	 description  |  Bar, Pub, Live Music
+	 website  |  http://www.crazy-mary.ch
+	 smoking  |  outside
+	 cuisine  |  no
+	 operator  |  Jasmina Perinotti
+	 opening_hours  |  Mo,We,Th,Fr,Sa 16:00-00:30; Su 19:00-00:30
+	 wheelchair  |  limited
+	 amenity  |  bar
+	 phone  |  +41792188813
+	 name  |  Crazy Mary Pub
+fuel  |  BEBECO
+	 payment:bebeco  |  yes
+	 fuel:diesel  |  yes
+	 addr:street  |  Rugen Süd
+	 addr:city  |  Interlaken
+	 operator  |  Schweizer Armee
+	 brand:wikidata  |  Q62274373
+	 fuel:octane_95  |  yes
+	 opening_hours  |  24/7
+	 amenity  |  fuel
+	 addr:postcode  |  3800
+	 brand  |  BEBECO
+	 name  |  BEBECO
+caravan_rental  |  Top Camp AG
+	 rental  |  caravan
+	 last_checked:addr  |  2016-04-13
+	 email  |  info@topcamp.ch
+	 website  |  https://www.topcamp.ch/
+	 opening_hours  |  Tu-Fr 09:30-12:00,13:30-18:00; Sa 09:30-16:00
+	 opening_hours:url  |  http://www.topcamp.ch/de/kontakt.html
+	 amenity  |  caravan_rental
+	 shop  |  caravan
+	 phone  |  +41 33 8264050
+	 name  |  Top Camp AG
+bar  |  Husi Bierhaus
+	 amenity  |  bar
+	 name  |  Husi Bierhaus
+bar  |  Riff Raff Bar
+	 amenity  |  bar
+	 name  |  Riff Raff Bar
+restaurant  |  Taj Palace
+	 amenity  |  restaurant
+	 phone  |  +41 33 821 09 40
+	 name  |  Taj Palace
+parking  |  Private Parking for Ula's Holiday Apartments
+	 capacity  |  5
+	 surface  |  paved
+	 maxstay  |  Duration of Reserved Stay
+	 parking  |  surface
+	 fee  |  no
+	 operator  |  Ursula Grossniklaus
+	 access  |  customers
+	 amenity  |  parking
+	 name  |  Private Parking for Ula's Holiday Apartments
+restaurant  |  Spycher
+	 amenity  |  restaurant
+	 name  |  Spycher
+bench  |  Rosengarten
+	 amenity  |  bench
+	 name  |  Rosengarten
+atm  |  Bancomat
+	 amenity  |  atm
+	 name  |  Bancomat
+car_sharing  |  Mobility Interlaken West
+	 amenity  |  car_sharing
+	 name  |  Mobility Interlaken West
+drinking_water  |  Hofstatt
+	 pump  |  no
+	 fee  |  no
+	 operator  |  Gemeinde Matten
+	 access  |  yes
+	 amenity  |  drinking_water
+	 bottle  |  yes
+	 name  |  Hofstatt
+drinking_water  |  Mattenkreuz
+	 addr:street  |  Rugenstrasse
+	 fee  |  no
+	 operator  |  Gemeinde Matten
+	 access  |  yes
+	 amenity  |  drinking_water
+	 bottle  |  yes
+	 name  |  Mattenkreuz
+restaurant  |  Restaurant Goldener Anker
+	 amenity  |  restaurant
+	 name  |  Restaurant Goldener Anker
+parking_entrance  |  Jungfrau Hotel
+	 amenity  |  parking_entrance
+	 name  |  Jungfrau Hotel
+bar  |  Enzian Bar im Winter
+	 name:de  |  Enzian Bar im Winter
+	 amenity  |  bar
+	 name  |  Enzian Bar im Winter
+cafe  |  Bistro Konditorei Schnäggli
+	 outdoor_seating  |  no
+	 addr:city  |  Ringgenberg (BE)
+	 addr:street  |  Hauptstrasse
+	 smoking  |  outside
+	 takeaway  |  yes
+	 cuisine  |  bistro
+	 opening_hours  |  Mo,Th,Fr 08:30-12:00,14:30-18:00;Sa,Su 09:30-16:30; Tu,We closed
+	 wheelchair  |  yes
+	 amenity  |  cafe
+	 addr:postcode  |  3852
+	 addr:housenumber  |  177
+	 name  |  Bistro Konditorei Schnäggli
+restaurant  |  Restaurant Golfclub Interlaken
+	 name:de  |  Restaurant Golfclub Interlaken
+	 website  |  https://www.interlakengolf.ch/
+	 amenity  |  restaurant
+	 name  |  Restaurant Golfclub Interlaken
+place_of_worship  |  Interlaken Islamic Mosque
+	 religion  |  muslim
+	 amenity  |  place_of_worship
+	 name  |  Interlaken Islamic Mosque
+cafe  |  Kultur Garage
+	 email  |  info@kulturgarage-interlaken.ch
+	 name:de  |  Kultur Garage
+	 website  |  http://www.kulturgarage-interlaken.ch
+	 amenity  |  cafe
+	 phone  |  +41 33 823 81 08
+	 name  |  Kultur Garage
+restaurant  |  Wilderswil
+	 internet_access  |  wlan
+	 cuisine  |  italian_pizza
+	 amenity  |  restaurant
+	 addr:street  |  Obereigasse
+	 name:en  |  Luna Piccante
+	 addr:postcode  |  3812
+	 addr:housenumber  |  15
+	 phone  |  +41 33 822 84 14
+	 name  |  Wilderswil
+nightclub  |  Caverne
+	 name:de  |  Caverne
+	 amenity  |  nightclub
+	 name:en  |  Cavern
+	 name  |  Caverne
+restaurant  |  Waldrand
+	 name:de  |  Waldrand
+	 amenity  |  restaurant
+	 name:en  |  Waldrand
+	 name  |  Waldrand
+restaurant  |  Tom Yum Kung
+	 website  |  https://tom-yum-kung.ch
+	 cuisine  |  thai
+	 amenity  |  restaurant
+	 name  |  Tom Yum Kung
+restaurant  |  Pizzeria Mercato
+	 website  |  http://www.city-oberland.ch/de/restaurants-bars/ristorante-mercato.html
+	 amenity  |  restaurant
+	 name  |  Pizzeria Mercato
+bar  |  Barracuda
+	 email  |  info@barracudacafe.ch
+	 website  |  https://www.barracudacafe.ch
+	 amenity  |  bar
+	 mobile  |  +41768246685
+	 name  |  Barracuda
+pub  |  Beizli Slovak Pub
+	 amenity  |  pub
+	 name:en  |  Beizli Slovak Pub
+cafe  |  Runft
+	 website  |  https://www.runft.ch/
+	 amenity  |  cafe
+	 phone  |  +41 33 823 83 83
+	 name  |  Runft
+restaurant  |  Kashmir
+	 cuisine  |  indian
+	 amenity  |  restaurant
+	 name  |  Kashmir
+fast_food  |  Snack Express
+	 cuisine  |  kebab
+	 amenity  |  fast_food
+	 name  |  Snack Express
+clinic  |  Aerztezentrum Medical Centre
+	 healthcare  |  clinic
+	 amenity  |  clinic
+	 name  |  Aerztezentrum Medical Centre
+restaurant  |  Brasserie 17
+	 fax  |  +41 33 822 32 68
+	 internet_access:fee  |  no
+	 internet_access  |  wlan
+	 email  |  info@happy-inn.com
+	 beds  |  70
+	 website  |  https://www.happy-inn.com/
+	 smoking  |  separated
+	 operator  |  Piet Swenker + Bart Stapel
+	 amenity  |  restaurant
+	 rooms  |  19
+	 phone  |  +41 33 822 32 25
+	 name  |  Brasserie 17
+cafe  |  Chili
+	 amenity  |  cafe
+	 name  |  Chili
+cafe  |  Home & Gourmet
+	 amenity  |  cafe
+	 name  |  Home & Gourmet
+fast_food  |  Sri Manee
+	 amenity  |  fast_food
+	 name  |  Sri Manee
+bank  |  EKI
+	 amenity  |  bank
+	 name  |  EKI
+restaurant  |  Taste of India
+	 amenity  |  restaurant
+	 name  |  Taste of India
+fast_food  |  Vivi's Wok
+	 amenity  |  fast_food
+	 name  |  Vivi's Wok
+pub  |  Bar & Restaurant
+	 amenity  |  pub
+	 name  |  Bar & Restaurant
+fast_food  |  Inter Pizza
+	 cuisine  |  pizza;kebab
+	 amenity  |  fast_food
+	 name  |  Inter Pizza
+restaurant  |  Le Meze Orientalische
+	 cuisine  |  lebanese
+	 amenity  |  restaurant
+	 name  |  Le Meze Orientalische
+cafe  |  Bubbletee
+	 website  |  https://wineart.ch/
+	 amenity  |  cafe
+	 name  |  Bubbletee
+restaurant  |  Rang Mahal
+	 cuisine  |  indian
+	 amenity  |  restaurant
+	 name  |  Rang Mahal
+restaurant  |  Kang Chon
+	 cuisine  |  korean
+	 amenity  |  restaurant
+	 name  |  Kang Chon
+restaurant  |  Lian
+	 takeaway  |  yes
+	 amenity  |  restaurant
+	 name  |  Lian
+restaurant  |  Vacanze Romane
+	 website  |  https://vacanzeromane.ch/
+	 cuisine  |  pizza
+	 amenity  |  restaurant
+	 name  |  Vacanze Romane
+restaurant  |  Restaurante Mexicano
+	 cuisine  |  mexican
+	 amenity  |  restaurant
+	 name  |  Restaurante Mexicano
+restaurant  |  Al Madina
+	 amenity  |  restaurant
+	 diet:halal  |  yes
+	 name  |  Al Madina
+restaurant  |  Spice Village
+	 amenity  |  restaurant
+	 name  |  Spice Village
+restaurant  |  Grand Restaurant Schuh
+	 email  |  info@schuh-interlaken.ch
+	 website  |  http://www.schuh-interlaken.ch
+	 operator  |  Eun Hae & Jürg Lehmann
+	 fax  |  +41 33 888 80 59
+	 opening_hours  |  Apr-Oct Mo-Su 09:00-23:00; Nov-Mar Mo-Su 09:00-23:00
+	 amenity  |  restaurant
+	 phone  |  +41 33 888 80 50
+	 name  |  Grand Restaurant Schuh
+dentist  |  Vallhov-Imhof
+	 healthcare  |  dentist
+	 website  |  http://www.vallhov-imhof.ch
+	 amenity  |  dentist
+	 name  |  Vallhov-Imhof
+restaurant  |  Ruedihus
+	 amenity  |  restaurant
+	 name  |  Ruedihus
+restaurant  |  Shalimar
+	 amenity  |  restaurant
+	 name  |  Shalimar
+bar  |  Johnny's Pub & Grill
+	 amenity  |  bar
+	 name  |  Johnny's Pub & Grill
+restaurant  |  L’Ambiance
+	 website  |  https://www.lindner.de/interlaken-grand-hotel-beau-rivage/essen/lambiance.html
+	 amenity  |  restaurant
+	 name  |  L’Ambiance
+restaurant  |  Truly Asia
+	 website  |  https://www.trulyasia.ch
+	 amenity  |  restaurant
+	 name  |  Truly Asia
+bar  |  Needle Bar
+	 amenity  |  bar
+	 name  |  Needle Bar
+cafe  |  Le Petit Casino
+	 amenity  |  cafe
+	 name  |  Le Petit Casino
+bar  |  La Terrasse
+	 amenity  |  bar
+	 name  |  La Terrasse
+restaurant  |  Swiss Taste
+	 website  |  www.swiss-taste.ch
+	 amenity  |  restaurant
+	 phone  |  +41 33 530 03 86
+	 name  |  Swiss Taste
+cafe  |  The Barrel Artisan Cafe
+	 website  |  http://www.craft-cafe.ch/
+	 amenity  |  cafe
+	 name  |  The Barrel Artisan Cafe
+cafe  |  Joy Vida
+	 amenity  |  cafe
+	 name  |  Joy Vida
+restaurant  |  Krebs
+	 amenity  |  restaurant
+	 name  |  Krebs
+fast_food  |  La Creperie
+	 amenity  |  fast_food
+	 name  |  La Creperie
+restaurant  |  Bebbis
+	 website  |  http://www.bebbis.com/
+	 amenity  |  restaurant
+	 name  |  Bebbis
+restaurant  |  Gleis 3
+	 opening_hours  |  We-Su 10:00-22:30
+	 amenity  |  restaurant
+	 name:en  |  Welcome India King
+	 name  |  Gleis 3
+restaurant  |  The Bollywood
+	 amenity  |  restaurant
+	 name  |  The Bollywood
+fast_food  |  Napoli
+	 website  |  http://www.napolipizza.ch/
+	 takeaway  |  yes
+	 opening_hours  |  24/7
+	 amenity  |  fast_food
+	 name  |  Napoli
+restaurant  |  Lucky Ming
+	 cuisine  |  chinese
+	 amenity  |  restaurant
+	 name  |  Lucky Ming
+atm  |  CLER
+	 opening_hours  |  Mo-Th 08:00-19:00; Fr 08:00-21:00; Sa 08:00-17:00
+	 wheelchair  |  yes
+	 amenity  |  atm
+	 name  |  CLER
+post_office  |  Post Interlaken
+	 operator:fr  |  La Poste
+	 operator:de  |  Die Post
+	 operator:it  |  La Posta
+	 operator:wikipedia  |  de:Die Schweizerische Post
+	 operator:wikidata  |  Q614803
+	 operator  |  Schweizerische Post
+	 operator:en  |  Swiss Post
+	 wheelchair  |  yes
+	 amenity  |  post_office
+	 name  |  Post Interlaken
+parking  |  Burgseeliparkplatz
+	 smoothness  |  intermediate
+	 name  |  Burgseeliparkplatz
+	 supervised  |  no
+	 amenity  |  parking
+	 opening_hours  |  24/7
+	 fee  |  yes
+	 parking  |  surface
+	 capacity:disabled  |  2
+	 lit  |  no
+	 access  |  yes
+	 surface  |  fine_gravel
+	 capacity:women  |  no
+	 park_ride  |  no
+	 capacity:parent  |  no
+restaurant  |  Restaurant Q
+	 delivery  |  no
+	 payment:notes  |  yes
+	 outdoor_seating  |  yes
+	 payment:postfinance_card  |  yes
+	 payment:mastercard  |  yes
+	 payment:maestro  |  yes
+	 payment:coins  |  yes
+	 takeaway  |  no
+	 smoking  |  outside
+	 wheelchair  |  yes
+	 amenity  |  restaurant
+	 payment:visa  |  yes
+	 name  |  Restaurant Q
+clinic  |  Tagesklinik FMI
+	 healthcare:speciality  |  psychiatry
+	 healthcare  |  clinic
+	 email  |  tagesklinik@spitalfmi.ch
+	 name:de  |  Tagesklinik FMI
+	 website  |  https://www.spitalfmi.ch/psychiatrie/standortebereiche/psychiatrische-tagesklinik/
+	 amenity  |  clinic
+	 name  |  Tagesklinik FMI
+restaurant  |  Aare
+	 website  |  https://aare-interlaken.business.site/
+	 cuisine  |  korean
+	 opening_hours  |  Mo-Su 11:00-22:00
+	 amenity  |  restaurant
+	 phone  |  +41 33 822 88 88
+	 name  |  Aare
+restaurant  |  Heimwehfluh
+	 addr:country  |  CH
+	 addr:street  |  Heimwehfluhstrasse
+	 addr:city  |  Matten bei Interlaken
+	 amenity  |  restaurant
+	 addr:postcode  |  3800
+	 addr:housenumber  |  60
+	 name  |  Heimwehfluh
+fuel  |  Coop
+	 addr:street  |  Rugenparkstrasse
+	 addr:city  |  Interlaken
+	 operator  |  Coop
+	 brand:wikidata  |  Q432564
+	 amenity  |  fuel
+	 shop  |  convenience
+	 addr:postcode  |  3800
+	 addr:housenumber  |  19
+	 brand  |  Coop
+	 name  |  Coop
+bank  |  Berner Kantonalbank
+	 short_name:fr  |  BCBE
+	 short_name:de  |  BEKB
+	 short_name  |  BEKB
+	 brand:fr  |  Banque Cantonale Bernoise
+	 brand:de  |  Berner Kantonalbank
+	 name:fr  |  Banque Cantonale Bernoise
+	 name:de  |  Berner Kantonalbank
+	 website  |  https://www.bekb.ch/de/services/support/standortsuche/interlaken
+	 brand:wikidata  |  Q824579
+	 amenity  |  bank
+	 brand  |  Berner Kantonalbank
+	 name  |  Berner Kantonalbank
+restaurant  |  Arcobaleno
+	 addr:street  |  Hauptstrasse
+	 amenity  |  restaurant
+	 addr:housenumber  |  18
+	 name  |  Arcobaleno
+restaurant  |  Balmers Biergarten Grill & Chill
+	 amenity  |  restaurant
+	 name  |  Balmers Biergarten Grill & Chill
+clinic  |  Reha­Pflegeklinik Eden
+	 healthcare  |  clinic
+	 addr:street  |  Schulhausweg
+	 addr:city  |  Ringgenberg BE
+	 website  |  https://www.reha-pflegeklinik.ch/
+	 amenity  |  clinic
+	 addr:postcode  |  3852
+	 addr:housenumber  |  11
+	 name  |  Reha­Pflegeklinik Eden
+car_sharing  |  Bönigen Lütschinenbrücke / BLS Werkstätte
+	 capacity  |  1
+	 operator:wikipedia  |  de:Mobility Carsharing
+	 addr:street  |  Interlakenstrasse
+	 operator:wikidata  |  Q692400
+	 website  |  https://www.mobility.ch/
+	 addr:city  |  Bönigen bei Interlaken
+	 operator  |  Mobility
+	 amenity  |  car_sharing
+	 supervised  |  no
+	 addr:postcode  |  3806
+	 name  |  Bönigen Lütschinenbrücke / BLS Werkstätte
+cafe  |  Cafe Treff
+	 opening_hours  |  Mo-Fr 06:00-14:30; Sa 06:00-12:00
+	 amenity  |  cafe
+	 name  |  Cafe Treff
+restaurant  |  Velo Cafe
+	 diet:vegan  |  yes
+	 description  |  Vegi and Vegan food
+	 addr:street  |  Unionsgasse
+	 diet:vegetarian  |  only
+	 opening_hours  |  Mo, Tu, Th 09:00-18:00; Fr, Sa 09:00-22:00; Su 10:00-18:00
+	 amenity  |  restaurant
+	 addr:housenumber  |  10
+	 name  |  Velo Cafe
+ice_cream  |  Vanini
+	 amenity  |  ice_cream
+	 name  |  Vanini
+bar  |  whiskyness.com
+	 addr:street  |  Höheweg
+	 addr:city  |  Interlaken
+	 outdoor_seating  |  yes
+	 website  |  https://www.whiskyness.com/whiskyness-shop/
+	 amenity  |  bar
+	 addr:postcode  |  3800
+	 addr:housenumber  |  75a
+	 name  |  whiskyness.com
+cafe  |  The mad cow
+	 outdoor_seating  |  yes
+	 toilets:access  |  customers
+	 changing_table  |  no
+	 level  |  0
+	 toilets:wheelchair  |  no
+	 toilets  |  yes
+	 smoking  |  outside
+	 opening_hours  |  We-Fr 09:00-18:30; Tu 13:30-18:30; Sa 11:00-18:00; PH closed
+	 wheelchair  |  yes
+	 amenity  |  cafe
+	 name  |  The mad cow
+restaurant  |  Delhi Darbar
+	 contact:website  |  http://www.delhidarbar.ch/
+	 cuisine  |  indian
+	 amenity  |  restaurant
+	 name  |  Delhi Darbar
+drinking_water  |  Unterdorf
+	 fee  |  no
+	 operator  |  Gemeinde Wasser
+	 amenity  |  drinking_water
+	 bottle  |  yes
+	 name  |  Unterdorf
+drinking_water  |  Mattenwirtshaus
+	 fee  |  no
+	 operator  |  Gemeinde Matten
+	 access  |  yes
+	 amenity  |  drinking_water
+	 bottle  |  yes
+	 name  |  Mattenwirtshaus
+drinking_water  |  Dorfstrasse
+	 fee  |  no
+	 access  |  yes
+	 amenity  |  drinking_water
+	 bottle  |  yes
+	 name  |  Dorfstrasse
+drinking_water  |  Brunngasse
+	 fee  |  no
+	 operator  |  Gemeinde Matten
+	 access  |  yes
+	 amenity  |  drinking_water
+	 bottle  |  yes
+	 name  |  Brunngasse
+vending_machine  |  Robidog
+	 vending  |  excrement_bags
+	 brand:wikipedia  |  de:Robidog
+	 brand:wikidata  |  Q2159689
+	 amenity  |  vending_machine
+	 brand  |  Robidog
+	 name  |  Robidog
+vending_machine  |  Robidog
+	 bin  |  yes
+	 vending  |  excrement_bags
+	 brand:wikipedia  |  de:Robidog
+	 brand:wikidata  |  Q2159689
+	 amenity  |  vending_machine
+	 brand  |  Robidog
+	 name  |  Robidog
+vending_machine  |  Robidog
+	 vending  |  excrement_bags
+	 brand:wikipedia  |  de:Robidog
+	 brand:wikidata  |  Q2159689
+	 amenity  |  vending_machine
+	 brand  |  Robidog
+	 name  |  Robidog
+townhall  |  Gemeindeverwaltung
+	 amenity  |  townhall
+	 name  |  Gemeindeverwaltung
+restaurant  |  Spicy Lounge
+	 takeaway  |  yes
+	 cuisine  |  indian
+	 amenity  |  restaurant
+	 name  |  Spicy Lounge
+vending_machine  |  Robidog
+	 vending  |  excrement_bags
+	 brand:wikipedia  |  de:Robidog
+	 brand:wikidata  |  Q2159689
+	 amenity  |  vending_machine
+	 brand  |  Robidog
+	 name  |  Robidog
+recycling  |  BEO Recycling
+	 recycling_type  |  centre
+	 amenity  |  recycling
+	 name  |  BEO Recycling
+restaurant  |  X-Port Pizzeria
+	 name:nl  |  Pizzeria
+	 cuisine  |  Burger, Pizza
+	 amenity  |  restaurant
+	 name  |  X-Port Pizzeria
+restaurant  |  Rugen Bistro
+	 amenity  |  restaurant
+	 name  |  Rugen Bistro
+bank  |  Raiffeisenbank Jungfrau
+	 amenity  |  bank
+	 name  |  Raiffeisenbank Jungfrau
+restaurant  |  Migros Restaurant
+	 brand:wikipedia  |  de:Migros
+	 cuisine  |  international
+	 brand:wikidata  |  Q680727
+	 amenity  |  restaurant
+	 brand  |  Migros Restaurant
+	 name  |  Migros Restaurant
+restaurant  |  Restaurant Pizzeria Bödelibad
+	 delivery  |  yes
+	 website  |  www.restaurantboedelibad.ch
+	 takeaway  |  yes
+	 amenity  |  restaurant
+	 name  |  Restaurant Pizzeria Bödelibad
+bar  |  lisi Restaurant & Bar
+	 amenity  |  bar
+	 name  |  lisi Restaurant & Bar
+dentist  |  Beat Röthlisberger, Zahnarztpraxis Am Marktplatz
+	 healthcare  |  dentist
+	 amenity  |  dentist
+	 name  |  Beat Röthlisberger, Zahnarztpraxis Am Marktplatz
+drinking_water  |  Brunnen
+	 amenity  |  drinking_water
+	 name  |  Brunnen
+restaurant  |  Pasta Store
+	 website  |  https://www.pasta-store.ch
+	 cuisine  |  italian
+	 amenity  |  restaurant
+	 phone  |  +41 33 821 10 30
+	 name  |  Pasta Store
+bar  |  Bounty Bar
+	 amenity  |  bar
+	 name  |  Bounty Bar
+pub  |  Galway Quay's Irish Pub
+	 amenity  |  pub
+	 name  |  Galway Quay's Irish Pub
+nightclub  |  Space
+	 amenity  |  nightclub
+	 name  |  Space
+clock  |  Alpin Zeit
+	 amenity  |  clock
+	 name  |  Alpin Zeit
+fast_food  |  Master Fried Chicken
+	 opening_hours  |  Mo-Sa 11:00-22:30
+	 amenity  |  fast_food
+	 name  |  Master Fried Chicken
+pharmacy  |  Busse
+	 amenity  |  pharmacy
+	 name  |  Busse
+restaurant  |  Adpi
+	 level  |  -1
+	 amenity  |  restaurant
+	 name  |  Adpi
+cafe  |  Altstadt Tearoom
+	 opening_hours  |  Mo, Tu, Th, Fr 06:30-18:30; Su 07:00-17:00; Sa 06:30-16:00
+	 amenity  |  cafe
+	 name  |  Altstadt Tearoom
+dentist  |  Jungfraublick
+	 level  |  1
+	 amenity  |  dentist
+	 name  |  Jungfraublick
+ice_cream  |  Joy Vida
+	 amenity  |  ice_cream
+	 name  |  Joy Vida
+restaurant  |  Cafe Lisboa
+	 amenity  |  restaurant
+	 name  |  Cafe Lisboa
+restaurant  |  Layaly Beirut
+	 amenity  |  restaurant
+	 name  |  Layaly Beirut
+atm  |  Credit Swisse
+	 amenity  |  atm
+	 name  |  Credit Swisse
+restaurant  |  Renaissance
+	 amenity  |  restaurant
+	 name  |  Renaissance
+restaurant  |  Taste of India
+	 amenity  |  restaurant
+	 name  |  Taste of India
+bank  |  Raiffeisen
+	 amenity  |  bank
+	 atm  |  yes
+	 name  |  Raiffeisen
+restaurant  |  Taj Mahal
+	 amenity  |  restaurant
+	 name  |  Taj Mahal
+bar  |  No. 8
+	 amenity  |  bar
+	 name  |  No. 8
+restaurant  |  Da Rafami
+	 amenity  |  restaurant
+	 name  |  Da Rafami
+fast_food  |  X-Port West
+	 opening_hours  |  Mo-Su 07:00-23:00
+	 amenity  |  fast_food
+	 name  |  X-Port West
+veterinary  |  Tierarztpraxis Waldegg
+	 amenity  |  veterinary
+	 name  |  Tierarztpraxis Waldegg
+driving_school  |  Independence
+	 amenity  |  driving_school
+	 name  |  Independence
+restaurant  |  Troja
+	 amenity  |  restaurant
+	 name  |  Troja
+restaurant  |  Sapori
+	 website  |  https://ristorante-sapori.ch/
+	 amenity  |  restaurant
+	 name  |  Sapori
+vending_machine  |  Robidog
+	 bin  |  yes
+	 vending  |  excrement_bags
+	 brand:wikidata  |  Q2159689
+	 amenity  |  vending_machine
+	 brand  |  Robidog
+	 name  |  Robidog
+photo_booth  |  Pronto Phot
+	 check_date  |  2022-11-13
+	 amenity  |  photo_booth
+	 name  |  Pronto Phot
+parking  |  Post
+	 smoothness  |  good
+	 name  |  Post
+	 supervised  |  no
+	 amenity  |  parking
+	 opening_hours  |  24/7
+	 operator  |  Gemeinde Ringgenberg
+	 fee  |  yes
+	 parking  |  surface
+	 capacity:disabled  |  no
+	 capacity  |  5
+	 capacity:women  |  no
+	 access  |  yes
+	 surface  |  asphalt
+	 capacity:parent  |  no
+====================
+Successfully loaded map '/cad2/ece297s/public/maps/interlaken_switzerland.streets.bin'
+Closing map
