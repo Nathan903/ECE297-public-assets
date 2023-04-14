@@ -33,3 +33,18 @@ vector<T> readVectorFromFile(const std::string& filename) {
 }
 
 saveVector(costs,"costs.txt");
+
+
+template<typename T>
+void saveVector(const std::vector<T>& vec, const std::string& filename) {
+    std::ofstream file(filename);
+    if (file.is_open()) {
+        for (const auto& value : vec) {
+            file << value << " ";
+        }
+        file.close();
+        std::cout << "Vector saved to file: " << filename << std::endl;
+    } else {
+        std::cerr << "Unable to open file: " << filename << std::endl;
+    }
+}
