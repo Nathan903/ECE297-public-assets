@@ -1,3 +1,3 @@
 # ECE297-public-assets
-__ hello __
+__hello__
 This is the public resource for map node analysis
